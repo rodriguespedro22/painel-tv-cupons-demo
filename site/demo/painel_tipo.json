@@ -1,0 +1,4728 @@
+{
+ "kpis": {
+  "itens": 301,
+  "venda": 528932.28,
+  "cupons": 8,
+  "lb_pct": 0.2666302217359285,
+  "vendas": 202,
+  "desconto": 45364.32,
+  "pct_venda": 0.0026589565799943907,
+  "pct_vendas": 0.0010727851012656564,
+  "ticket_com": 3074.02,
+  "ticket_sem": 1052.04,
+  "venda_total": 198924752.69,
+  "desconto_pct": 0.07899110756540167,
+  "vendas_total": 188696
+ },
+ "novos": [
+  {
+   "cupom": "PRATA5",
+   "venda": 26697.04,
+   "vendas": 10,
+   "primeiro_uso": "2026-09-22"
+  }
+ ],
+ "serie": [
+  {
+   "data": "2026-07-01",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-02",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-03",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-04",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-05",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-06",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-07",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-08",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-09",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-10",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-11",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-12",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-13",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-14",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-15",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-16",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-17",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-18",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-19",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-20",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-21",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-22",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-23",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-24",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-25",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-26",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-27",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-28",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-29",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-30",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-07-31",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-01",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-02",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-03",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-04",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-05",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-06",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-07",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-08",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-09",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-10",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-11",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-12",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-13",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-14",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-15",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-16",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-17",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-18",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-19",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-20",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-21",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-22",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-23",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-24",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-25",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-26",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-27",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-28",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-29",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-30",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-08-31",
+   "venda": 0.0,
+   "vendas": 0,
+   "desconto": 0.0
+  },
+  {
+   "data": "2026-09-01",
+   "venda": 4920.1,
+   "vendas": 2,
+   "desconto": 386.63
+  },
+  {
+   "data": "2026-09-02",
+   "venda": 2984.84,
+   "vendas": 1,
+   "desconto": 245.71
+  },
+  {
+   "data": "2026-09-03",
+   "venda": 4141.98,
+   "vendas": 2,
+   "desconto": 414.78
+  },
+  {
+   "data": "2026-09-04",
+   "venda": 7319.22,
+   "vendas": 3,
+   "desconto": 582.5
+  },
+  {
+   "data": "2026-09-05",
+   "venda": 6752.95,
+   "vendas": 2,
+   "desconto": 638.95
+  },
+  {
+   "data": "2026-09-06",
+   "venda": 6935.57,
+   "vendas": 3,
+   "desconto": 615.47
+  },
+  {
+   "data": "2026-09-07",
+   "venda": 10849.69,
+   "vendas": 4,
+   "desconto": 1004.1
+  },
+  {
+   "data": "2026-09-08",
+   "venda": 13730.51,
+   "vendas": 5,
+   "desconto": 1183.37
+  },
+  {
+   "data": "2026-09-09",
+   "venda": 9791.39,
+   "vendas": 4,
+   "desconto": 808.31
+  },
+  {
+   "data": "2026-09-10",
+   "venda": 22150.55,
+   "vendas": 8,
+   "desconto": 1801.2
+  },
+  {
+   "data": "2026-09-11",
+   "venda": 16010.97,
+   "vendas": 6,
+   "desconto": 1291.87
+  },
+  {
+   "data": "2026-09-12",
+   "venda": 18884.52,
+   "vendas": 7,
+   "desconto": 1645.66
+  },
+  {
+   "data": "2026-09-13",
+   "venda": 19472.54,
+   "vendas": 8,
+   "desconto": 1810.64
+  },
+  {
+   "data": "2026-09-14",
+   "venda": 24187.74,
+   "vendas": 9,
+   "desconto": 2116.49
+  },
+  {
+   "data": "2026-09-15",
+   "venda": 20829.98,
+   "vendas": 8,
+   "desconto": 1611.64
+  },
+  {
+   "data": "2026-09-16",
+   "venda": 24971.49,
+   "vendas": 10,
+   "desconto": 2275.25
+  },
+  {
+   "data": "2026-09-17",
+   "venda": 18726.44,
+   "vendas": 7,
+   "desconto": 1710.58
+  },
+  {
+   "data": "2026-09-18",
+   "venda": 20364.79,
+   "vendas": 8,
+   "desconto": 1656.15
+  },
+  {
+   "data": "2026-09-19",
+   "venda": 25920.95,
+   "vendas": 10,
+   "desconto": 2236.78
+  },
+  {
+   "data": "2026-09-20",
+   "venda": 30624.49,
+   "vendas": 12,
+   "desconto": 2720.33
+  },
+  {
+   "data": "2026-09-21",
+   "venda": 30418.56,
+   "vendas": 12,
+   "desconto": 2841.05
+  },
+  {
+   "data": "2026-09-22",
+   "venda": 40366.47,
+   "vendas": 15,
+   "desconto": 3218.53
+  },
+  {
+   "data": "2026-09-23",
+   "venda": 33675.25,
+   "vendas": 12,
+   "desconto": 2884.04
+  },
+  {
+   "data": "2026-09-24",
+   "venda": 31545.22,
+   "vendas": 12,
+   "desconto": 2603.21
+  },
+  {
+   "data": "2026-09-25",
+   "venda": 30337.96,
+   "vendas": 12,
+   "desconto": 2462.18
+  },
+  {
+   "data": "2026-09-26",
+   "venda": 28458.18,
+   "vendas": 11,
+   "desconto": 2390.77
+  },
+  {
+   "data": "2026-09-27",
+   "venda": 24559.92,
+   "vendas": 10,
+   "desconto": 2208.11
+  }
+ ],
+ "setor": [
+  {
+   "itens": 202,
+   "setor": "SALA DE ESTAR",
+   "venda": 55479.3,
+   "desconto": 4759.92,
+   "n_deptos": 1,
+   "departamento": "MÓVEIS",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "DORMITÓRIO",
+   "venda": 48187.3,
+   "desconto": 4121.87,
+   "n_deptos": 1,
+   "departamento": "MÓVEIS",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "REFRIGERAÇÃO",
+   "venda": 44744.51,
+   "desconto": 3828.61,
+   "n_deptos": 1,
+   "departamento": "ELETRO",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "FEMININO",
+   "venda": 39784.87,
+   "desconto": 3402.95,
+   "n_deptos": 1,
+   "departamento": "MODA",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "CELULARES",
+   "venda": 37750.79,
+   "desconto": 3231.59,
+   "n_deptos": 1,
+   "departamento": "TECNOLOGIA",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "LAVANDERIA",
+   "venda": 36945.49,
+   "desconto": 3160.38,
+   "n_deptos": 1,
+   "departamento": "ELETRO",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "COZINHA",
+   "venda": 31797.87,
+   "desconto": 2730.44,
+   "n_deptos": 1,
+   "departamento": "MÓVEIS",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "PORTÁTEIS",
+   "venda": 29179.64,
+   "desconto": 2503.34,
+   "n_deptos": 1,
+   "departamento": "ELETRO",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "MASCULINO",
+   "venda": 28610.87,
+   "desconto": 2449.49,
+   "n_deptos": 1,
+   "departamento": "MODA",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "CAMA",
+   "venda": 22023.03,
+   "desconto": 1885.45,
+   "n_deptos": 1,
+   "departamento": "CAMA, MESA E BANHO",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "INFANTIL",
+   "venda": 21261.63,
+   "desconto": 1818.59,
+   "n_deptos": 1,
+   "departamento": "MODA",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "CLIMATIZAÇÃO",
+   "venda": 21220.47,
+   "desconto": 1821.04,
+   "n_deptos": 1,
+   "departamento": "ELETRO",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "UTILIDADES DOMÉSTICAS",
+   "venda": 18762.39,
+   "desconto": 1610.23,
+   "n_deptos": 1,
+   "departamento": "UTILIDADES",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "INFORMÁTICA",
+   "venda": 17234.96,
+   "desconto": 1476.77,
+   "n_deptos": 1,
+   "departamento": "TECNOLOGIA",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "CALÇADOS",
+   "venda": 15916.62,
+   "desconto": 1370.09,
+   "n_deptos": 1,
+   "departamento": "MODA",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "BANHO",
+   "venda": 14650.96,
+   "desconto": 1256.95,
+   "n_deptos": 1,
+   "departamento": "CAMA, MESA E BANHO",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "TV E VÍDEO",
+   "venda": 13691.42,
+   "desconto": 1173.58,
+   "n_deptos": 1,
+   "departamento": "TECNOLOGIA",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "ESCRITÓRIO",
+   "venda": 12685.46,
+   "desconto": 1087.77,
+   "n_deptos": 1,
+   "departamento": "MÓVEIS",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "COLCHÕES",
+   "venda": 11085.02,
+   "desconto": 950.17,
+   "n_deptos": 1,
+   "departamento": "MÓVEIS",
+   "vendas": 67
+  },
+  {
+   "itens": 202,
+   "setor": "DECORAÇÃO",
+   "venda": 7871.86,
+   "desconto": 675.7,
+   "n_deptos": 1,
+   "departamento": "UTILIDADES",
+   "vendas": 67
+  }
+ ],
+ "tipos": [
+  "Campanha"
+ ],
+ "escopo": "campanha",
+ "versao": 6,
+ "periodo": {
+  "fim": "2026-09-27",
+  "dias": 89,
+  "codigo": "campanha",
+  "inicio": "2026-07-01",
+  "rotulo": "Desde o início da campanha"
+ },
+ "ranking": [
+  {
+   "cupom": "CEDRO50",
+   "venda": 102855.86,
+   "lb_pct": 0.26907131395813,
+   "ticket": 3049.57,
+   "vendas": 40,
+   "desconto": 9156.29,
+   "desconto_pct": 0.08174372799800134,
+   "primeiro_uso": "2026-09-04"
+  },
+  {
+   "cupom": "BRISA200",
+   "venda": 101794.28,
+   "lb_pct": 0.26510607613961673,
+   "ticket": 3066.0,
+   "vendas": 39,
+   "desconto": 8438.68,
+   "desconto_pct": 0.0765531552581251,
+   "primeiro_uso": "2026-09-01"
+  },
+  {
+   "cupom": "ONDA100",
+   "venda": 88047.89,
+   "lb_pct": 0.26396884715779234,
+   "ticket": 3152.34,
+   "vendas": 33,
+   "desconto": 7630.74,
+   "desconto_pct": 0.0797538322480636,
+   "primeiro_uso": "2026-09-07"
+  },
+  {
+   "cupom": "SAFIRA5",
+   "venda": 74597.72,
+   "lb_pct": 0.2633569485126453,
+   "ticket": 3044.12,
+   "vendas": 29,
+   "desconto": 6529.7,
+   "desconto_pct": 0.08048701733050849,
+   "primeiro_uso": "2026-09-10"
+  },
+  {
+   "cupom": "OPALA15",
+   "venda": 58675.18,
+   "lb_pct": 0.26342712653067607,
+   "ticket": 3092.72,
+   "vendas": 22,
+   "desconto": 5075.52,
+   "desconto_pct": 0.0796150938529628,
+   "primeiro_uso": "2026-09-13"
+  },
+  {
+   "cupom": "HORIZONTE50",
+   "venda": 45637.0,
+   "lb_pct": 0.2748431364789581,
+   "ticket": 3038.52,
+   "vendas": 18,
+   "desconto": 3710.16,
+   "desconto_pct": 0.07518488013855597,
+   "primeiro_uso": "2026-09-16"
+  },
+  {
+   "cupom": "TURQUESA5",
+   "venda": 30627.3,
+   "lb_pct": 0.26986335090956654,
+   "ticket": 3058.76,
+   "vendas": 12,
+   "desconto": 2676.5,
+   "desconto_pct": 0.08036632842147884,
+   "primeiro_uso": "2026-09-19"
+  },
+  {
+   "cupom": "PRATA5",
+   "venda": 26697.04,
+   "lb_pct": 0.2702517040842185,
+   "ticket": 3070.21,
+   "vendas": 10,
+   "desconto": 2146.73,
+   "desconto_pct": 0.07442606068231679,
+   "primeiro_uso": "2026-09-22"
+  }
+ ],
+ "campanha": {
+  "tv_periodo": "campanha",
+  "novos_entram": "sim",
+  "campanha_nome": "Campanha Aurora · R$ 10 milhões em cupons",
+  "campanha_tipos": "",
+  "campanha_inicio": "2026-07-01",
+  "segundos_por_tela": "30"
+ },
+ "regional": [
+  {
+   "venda": 70491.45,
+   "vendas": 26,
+   "desconto": 6135.28,
+   "regional": "DIVISA",
+   "penetracao": 0.002317465510660341,
+   "venda_total": 26510945.25,
+   "vendas_total": 25148
+  },
+  {
+   "venda": 64527.75,
+   "vendas": 25,
+   "desconto": 5409.54,
+   "regional": "CAMPOS DO SUL",
+   "penetracao": 0.0011067085667440908,
+   "venda_total": 24268072.93,
+   "vendas_total": 23020
+  },
+  {
+   "venda": 62973.46,
+   "vendas": 24,
+   "desconto": 5411.56,
+   "regional": "PLANALTO",
+   "penetracao": 0.00261353608037472,
+   "venda_total": 23683523.74,
+   "vendas_total": 22465
+  },
+  {
+   "venda": 60711.13,
+   "vendas": 24,
+   "desconto": 4906.78,
+   "regional": "CAPITAL",
+   "penetracao": 0.0005175031833255027,
+   "venda_total": 22832690.41,
+   "vendas_total": 21659
+  },
+  {
+   "venda": 58278.72,
+   "vendas": 23,
+   "desconto": 5124.69,
+   "regional": "COSTA DOURADA",
+   "penetracao": 0.001113280058561581,
+   "venda_total": 21917889.69,
+   "vendas_total": 20791
+  },
+  {
+   "venda": 54581.13,
+   "vendas": 20,
+   "desconto": 4636.04,
+   "regional": "COSTA AZUL",
+   "penetracao": 0.0006285594560103617,
+   "venda_total": 20527273.82,
+   "vendas_total": 19472
+  },
+  {
+   "venda": 54429.81,
+   "vendas": 20,
+   "desconto": 4714.52,
+   "regional": "RIOS",
+   "penetracao": 0.0018779342723004694,
+   "venda_total": 20470363.8,
+   "vendas_total": 19418
+  },
+  {
+   "venda": 51505.2,
+   "vendas": 20,
+   "desconto": 4538.42,
+   "regional": "VALE VERDE",
+   "penetracao": 0.0014807390026653302,
+   "venda_total": 19370454.68,
+   "vendas_total": 18374
+  },
+  {
+   "venda": 51433.63,
+   "vendas": 20,
+   "desconto": 4487.51,
+   "regional": "SERRA ALTA",
+   "penetracao": 0.0008780233499334623,
+   "venda_total": 19343538.4,
+   "vendas_total": 18350
+  }
+ ],
+ "ultimo_dia": {
+  "data": "2026-09-27",
+  "venda": 24559.92,
+  "vendas": 10,
+  "desconto": 2208.11,
+  "venda_total": 282297.97,
+  "vendas_total": 209
+ },
+ "atualizacao": {
+  "dados_ate": "2026-09-27",
+  "ultima_carga": {
+   "fim": "2026-10-02T18:59:59.882514+00:00",
+   "linhas": 6829,
+   "status": "ok",
+   "origem_carga": "carga-auto",
+   "dataset_atualizado_em": "2026-10-02T18:55:59.882514+00:00"
+  }
+ },
+ "departamento": [
+  {
+   "itens": 1012,
+   "venda": 159234.95,
+   "desconto": 13650.17,
+   "departamento": "MÓVEIS",
+   "vendas": 303
+  },
+  {
+   "itens": 810,
+   "venda": 132090.11,
+   "desconto": 11313.37,
+   "departamento": "ELETRO",
+   "vendas": 243
+  },
+  {
+   "itens": 810,
+   "venda": 105573.99,
+   "desconto": 9041.12,
+   "departamento": "MODA",
+   "vendas": 243
+  },
+  {
+   "itens": 607,
+   "venda": 68677.17,
+   "desconto": 5881.94,
+   "departamento": "TECNOLOGIA",
+   "vendas": 182
+  },
+  {
+   "itens": 405,
+   "venda": 36673.99,
+   "desconto": 3142.39,
+   "departamento": "CAMA, MESA E BANHO",
+   "vendas": 121
+  },
+  {
+   "itens": 405,
+   "venda": 26634.24,
+   "desconto": 2285.94,
+   "departamento": "UTILIDADES",
+   "vendas": 121
+  }
+ ],
+ "filiais": [
+  {
+   "filial": "3250 - Arroio Claro 79",
+   "regional": "COSTA AZUL",
+   "vendas": 2,
+   "venda": 8564.59,
+   "desconto": 868.04,
+   "venda_total": 732801.28,
+   "vendas_total": 695
+  },
+  {
+   "filial": "3251 - Nova Esperança 79",
+   "regional": "COSTA DOURADA",
+   "vendas": 2,
+   "venda": 7378.34,
+   "desconto": 583.85,
+   "venda_total": 785819.97,
+   "vendas_total": 746
+  },
+  {
+   "filial": "3252 - Mata Branca 79",
+   "regional": "DIVISA",
+   "vendas": 3,
+   "venda": 6149.95,
+   "desconto": 402.55,
+   "venda_total": 1325718.76,
+   "vendas_total": 1258
+  },
+  {
+   "filial": "3253 - Cachoeira do Norte 79",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 2,
+   "venda": 5888.88,
+   "desconto": 456.37,
+   "venda_total": 933630.28,
+   "vendas_total": 886
+  },
+  {
+   "filial": "3254 - Pinhal Novo 79",
+   "regional": "RIOS",
+   "vendas": 2,
+   "venda": 5593.53,
+   "desconto": 437.15,
+   "venda_total": 1049257.42,
+   "vendas_total": 995
+  },
+  {
+   "filial": "3255 - Lajedo Alto 79",
+   "regional": "CAPITAL",
+   "vendas": 2,
+   "venda": 5582.19,
+   "desconto": 464.28,
+   "venda_total": 1040187.32,
+   "vendas_total": 987
+  },
+  {
+   "filial": "3256 - Capão Verde 79",
+   "regional": "PLANALTO",
+   "vendas": 2,
+   "venda": 5497.21,
+   "desconto": 498.47,
+   "venda_total": 888674.65,
+   "vendas_total": 843
+  },
+  {
+   "filial": "3257 - Tupã Velho 79",
+   "regional": "RIOS",
+   "vendas": 2,
+   "venda": 5318.08,
+   "desconto": 439.86,
+   "venda_total": 829211.49,
+   "vendas_total": 786
+  },
+  {
+   "filial": "3258 - Estância Nova 79",
+   "regional": "RIOS",
+   "vendas": 2,
+   "venda": 5281.71,
+   "desconto": 395.32,
+   "venda_total": 1858982.12,
+   "vendas_total": 1763
+  },
+  {
+   "filial": "3259 - Pratinha 79",
+   "regional": "SERRA ALTA",
+   "vendas": 2,
+   "venda": 5279.46,
+   "desconto": 364.48,
+   "venda_total": 376678.04,
+   "vendas_total": 357
+  },
+  {
+   "filial": "3260 - Coxilha Real 79",
+   "regional": "PLANALTO",
+   "vendas": 2,
+   "venda": 5181.49,
+   "desconto": 405.81,
+   "venda_total": 929727.1,
+   "vendas_total": 882
+  },
+  {
+   "filial": "3261 - Alvorada Nova 80",
+   "regional": "PLANALTO",
+   "vendas": 2,
+   "venda": 4925.01,
+   "desconto": 324.08,
+   "venda_total": 1307209.35,
+   "vendas_total": 1240
+  },
+  {
+   "filial": "3262 - Campo Verde 80",
+   "regional": "DIVISA",
+   "vendas": 2,
+   "venda": 4916.74,
+   "desconto": 316.16,
+   "venda_total": 625459.34,
+   "vendas_total": 593
+  },
+  {
+   "filial": "3263 - Vila Aurora 80",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 4822.66,
+   "desconto": 395.99,
+   "venda_total": 1893490.73,
+   "vendas_total": 1796
+  },
+  {
+   "filial": "3264 - Porto Sereno 80",
+   "regional": "CAPITAL",
+   "vendas": 2,
+   "venda": 4642.1,
+   "desconto": 309.81,
+   "venda_total": 695995.51,
+   "vendas_total": 660
+  },
+  {
+   "filial": "3265 - Monte Claro 80",
+   "regional": "SERRA ALTA",
+   "vendas": 2,
+   "venda": 4435.3,
+   "desconto": 349.43,
+   "venda_total": 809689.55,
+   "vendas_total": 768
+  },
+  {
+   "filial": "3266 - Rio Manso 80",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 2,
+   "venda": 4420.4,
+   "desconto": 418.67,
+   "venda_total": 1028037.58,
+   "vendas_total": 975
+  },
+  {
+   "filial": "3267 - Serra Azul 80",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 4403.66,
+   "desconto": 308.95,
+   "venda_total": 726057.2,
+   "vendas_total": 689
+  },
+  {
+   "filial": "3268 - Lagoa Dourada 80",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 4225.56,
+   "desconto": 286.33,
+   "venda_total": 1593565.88,
+   "vendas_total": 1512
+  },
+  {
+   "filial": "3269 - Bela Vista do Sul 80",
+   "regional": "PLANALTO",
+   "vendas": 2,
+   "venda": 4158.11,
+   "desconto": 314.7,
+   "venda_total": 379085.79,
+   "vendas_total": 360
+  },
+  {
+   "filial": "3270 - Pedra Branca 80",
+   "regional": "COSTA DOURADA",
+   "vendas": 2,
+   "venda": 3903.79,
+   "desconto": 312.33,
+   "venda_total": 1301843.77,
+   "vendas_total": 1235
+  },
+  {
+   "filial": "3271 - Santa Aurora 80",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 3781.12,
+   "desconto": 233.55,
+   "venda_total": 528654.29,
+   "vendas_total": 502
+  },
+  {
+   "filial": "3272 - São Tomé do Vale 80",
+   "regional": "COSTA DOURADA",
+   "vendas": 2,
+   "venda": 3671.8,
+   "desconto": 303.13,
+   "venda_total": 1034835.75,
+   "vendas_total": 982
+  },
+  {
+   "filial": "3273 - Cerro Alto 80",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 3647.87,
+   "desconto": 264.62,
+   "venda_total": 1162102.46,
+   "vendas_total": 1102
+  },
+  {
+   "filial": "3274 - Ponte Nova do Sul 80",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 3536.66,
+   "desconto": 255.45,
+   "venda_total": 484104.32,
+   "vendas_total": 459
+  },
+  {
+   "filial": "3275 - Praia Serena 80",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 3505.21,
+   "desconto": 318.81,
+   "venda_total": 481592.1,
+   "vendas_total": 457
+  },
+  {
+   "filial": "3276 - Vale do Sol 80",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 3499.74,
+   "desconto": 310.14,
+   "venda_total": 1017114.01,
+   "vendas_total": 965
+  },
+  {
+   "filial": "3277 - Colina Verde 80",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 3432.26,
+   "desconto": 246.65,
+   "venda_total": 1261832.22,
+   "vendas_total": 1197
+  },
+  {
+   "filial": "3278 - Barra Funda do Norte 80",
+   "regional": "SERRA ALTA",
+   "vendas": 2,
+   "venda": 3407.67,
+   "desconto": 240.0,
+   "venda_total": 663197.19,
+   "vendas_total": 629
+  },
+  {
+   "filial": "3279 - Fonte Clara 80",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 3310.74,
+   "desconto": 239.77,
+   "venda_total": 884087.34,
+   "vendas_total": 839
+  },
+  {
+   "filial": "3280 - Morro Azul 80",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 3229.86,
+   "desconto": 295.13,
+   "venda_total": 1243749.78,
+   "vendas_total": 1180
+  },
+  {
+   "filial": "3281 - Campina Real 80",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 3213.17,
+   "desconto": 247.56,
+   "venda_total": 921282.95,
+   "vendas_total": 874
+  },
+  {
+   "filial": "3282 - Ilha Dourada 80",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 3153.05,
+   "desconto": 278.21,
+   "venda_total": 682645.58,
+   "vendas_total": 648
+  },
+  {
+   "filial": "3283 - Boa Esperança do Sul 80",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 3107.92,
+   "desconto": 211.15,
+   "venda_total": 738351.94,
+   "vendas_total": 700
+  },
+  {
+   "filial": "3284 - Passo da Lagoa 80",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 3020.52,
+   "desconto": 259.29,
+   "venda_total": 590107.41,
+   "vendas_total": 560
+  },
+  {
+   "filial": "3285 - Rincão Verde 80",
+   "regional": "VALE VERDE",
+   "vendas": 2,
+   "venda": 3008.56,
+   "desconto": 257.04,
+   "venda_total": 410192.87,
+   "vendas_total": 389
+  },
+  {
+   "filial": "3286 - Ventania 80",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 3004.6,
+   "desconto": 203.37,
+   "venda_total": 760144.99,
+   "vendas_total": 721
+  },
+  {
+   "filial": "3287 - Terra Nova do Vale 80",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 2997.53,
+   "desconto": 215.33,
+   "venda_total": 767216.9,
+   "vendas_total": 728
+  },
+  {
+   "filial": "3288 - Encosta Alta 80",
+   "regional": "CAPITAL",
+   "vendas": 2,
+   "venda": 2968.29,
+   "desconto": 237.64,
+   "venda_total": 854575.93,
+   "vendas_total": 811
+  },
+  {
+   "filial": "3289 - Santo Amaro do Campo 80",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 2953.21,
+   "desconto": 252.27,
+   "venda_total": 859489.05,
+   "vendas_total": 815
+  },
+  {
+   "filial": "3290 - Arroio Claro 80",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2952.13,
+   "desconto": 298.67,
+   "venda_total": 839799.94,
+   "vendas_total": 797
+  },
+  {
+   "filial": "3291 - Nova Esperança 80",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 2937.66,
+   "desconto": 245.53,
+   "venda_total": 574120.49,
+   "vendas_total": 545
+  },
+  {
+   "filial": "3292 - Mata Branca 80",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 2892.29,
+   "desconto": 252.44,
+   "venda_total": 700459.04,
+   "vendas_total": 664
+  },
+  {
+   "filial": "3293 - Cachoeira do Norte 80",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 2879.27,
+   "desconto": 239.93,
+   "venda_total": 1594846.0,
+   "vendas_total": 1513
+  },
+  {
+   "filial": "492 - Mata Branca 10",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2844.26,
+   "desconto": 244.12,
+   "venda_total": 928858.51,
+   "vendas_total": 881
+  },
+  {
+   "filial": "3294 - Pinhal Novo 80",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 2823.56,
+   "desconto": 288.67,
+   "venda_total": 964424.06,
+   "vendas_total": 915
+  },
+  {
+   "filial": "3295 - Lajedo Alto 80",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 2797.4,
+   "desconto": 205.84,
+   "venda_total": 882821.88,
+   "vendas_total": 837
+  },
+  {
+   "filial": "3296 - Capão Verde 80",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 2766.8,
+   "desconto": 184.43,
+   "venda_total": 1119696.14,
+   "vendas_total": 1062
+  },
+  {
+   "filial": "3297 - Tupã Velho 80",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 2711.93,
+   "desconto": 217.65,
+   "venda_total": 1861726.1,
+   "vendas_total": 1766
+  },
+  {
+   "filial": "3298 - Estância Nova 80",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 2693.01,
+   "desconto": 207.06,
+   "venda_total": 642794.14,
+   "vendas_total": 610
+  },
+  {
+   "filial": "3299 - Pratinha 80",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 2615.23,
+   "desconto": 229.94,
+   "venda_total": 763859.28,
+   "vendas_total": 724
+  },
+  {
+   "filial": "3300 - Coxilha Real 80",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2597.07,
+   "desconto": 186.87,
+   "venda_total": 810899.36,
+   "vendas_total": 769
+  },
+  {
+   "filial": "3301 - Alvorada Nova 81",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 2580.18,
+   "desconto": 258.92,
+   "venda_total": 836093.76,
+   "vendas_total": 793
+  },
+  {
+   "filial": "3302 - Campo Verde 81",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2570.69,
+   "desconto": 196.03,
+   "venda_total": 386667.03,
+   "vendas_total": 367
+  },
+  {
+   "filial": "3303 - Vila Aurora 81",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 2565.31,
+   "desconto": 173.83,
+   "venda_total": 784911.34,
+   "vendas_total": 745
+  },
+  {
+   "filial": "3304 - Porto Sereno 81",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 2559.36,
+   "desconto": 174.99,
+   "venda_total": 541272.73,
+   "vendas_total": 513
+  },
+  {
+   "filial": "3305 - Monte Claro 81",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2544.62,
+   "desconto": 148.72,
+   "venda_total": 403094.38,
+   "vendas_total": 382
+  },
+  {
+   "filial": "3306 - Rio Manso 81",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 2511.62,
+   "desconto": 212.99,
+   "venda_total": 838484.36,
+   "vendas_total": 795
+  },
+  {
+   "filial": "3307 - Serra Azul 81",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 2481.01,
+   "desconto": 225.42,
+   "venda_total": 288833.5,
+   "vendas_total": 274
+  },
+  {
+   "filial": "3308 - Lagoa Dourada 81",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 2479.07,
+   "desconto": 189.0,
+   "venda_total": 732674.98,
+   "vendas_total": 695
+  },
+  {
+   "filial": "3309 - Bela Vista do Sul 81",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 2466.9,
+   "desconto": 200.73,
+   "venda_total": 773546.72,
+   "vendas_total": 734
+  },
+  {
+   "filial": "3310 - Pedra Branca 81",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 2454.64,
+   "desconto": 204.44,
+   "venda_total": 751850.66,
+   "vendas_total": 713
+  },
+  {
+   "filial": "3311 - Santa Aurora 81",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 2441.78,
+   "desconto": 201.36,
+   "venda_total": 672258.75,
+   "vendas_total": 638
+  },
+  {
+   "filial": "3312 - São Tomé do Vale 81",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 2437.19,
+   "desconto": 256.13,
+   "venda_total": 1241008.12,
+   "vendas_total": 1177
+  },
+  {
+   "filial": "3313 - Cerro Alto 81",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 2420.18,
+   "desconto": 202.91,
+   "venda_total": 410186.1,
+   "vendas_total": 389
+  },
+  {
+   "filial": "3314 - Ponte Nova do Sul 81",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 2394.58,
+   "desconto": 206.16,
+   "venda_total": 527094.92,
+   "vendas_total": 500
+  },
+  {
+   "filial": "3315 - Praia Serena 81",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 2356.2,
+   "desconto": 251.95,
+   "venda_total": 914780.69,
+   "vendas_total": 868
+  },
+  {
+   "filial": "3316 - Vale do Sol 81",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 2332.71,
+   "desconto": 249.77,
+   "venda_total": 1159514.56,
+   "vendas_total": 1100
+  },
+  {
+   "filial": "3317 - Colina Verde 81",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 2305.44,
+   "desconto": 187.46,
+   "venda_total": 722385.41,
+   "vendas_total": 685
+  },
+  {
+   "filial": "880 - Morro Azul 20",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 2283.31,
+   "desconto": 168.7,
+   "venda_total": 534986.97,
+   "vendas_total": 507
+  },
+  {
+   "filial": "3318 - Barra Funda do Norte 81",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2249.08,
+   "desconto": 165.85,
+   "venda_total": 1100560.33,
+   "vendas_total": 1044
+  },
+  {
+   "filial": "3319 - Fonte Clara 81",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 2227.59,
+   "desconto": 187.58,
+   "venda_total": 354488.93,
+   "vendas_total": 336
+  },
+  {
+   "filial": "3320 - Morro Azul 81",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 2185.55,
+   "desconto": 205.57,
+   "venda_total": 856026.55,
+   "vendas_total": 812
+  },
+  {
+   "filial": "3321 - Campina Real 81",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 2137.35,
+   "desconto": 198.67,
+   "venda_total": 545744.78,
+   "vendas_total": 518
+  },
+  {
+   "filial": "3322 - Ilha Dourada 81",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 2135.97,
+   "desconto": 151.39,
+   "venda_total": 541973.72,
+   "vendas_total": 514
+  },
+  {
+   "filial": "3323 - Boa Esperança do Sul 81",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 2079.16,
+   "desconto": 166.44,
+   "venda_total": 509035.05,
+   "vendas_total": 483
+  },
+  {
+   "filial": "3324 - Passo da Lagoa 81",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 2044.53,
+   "desconto": 175.67,
+   "venda_total": 800443.13,
+   "vendas_total": 759
+  },
+  {
+   "filial": "3325 - Rincão Verde 81",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 2042.6,
+   "desconto": 131.18,
+   "venda_total": 978460.88,
+   "vendas_total": 928
+  },
+  {
+   "filial": "3326 - Ventania 81",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 2029.81,
+   "desconto": 165.67,
+   "venda_total": 644844.45,
+   "vendas_total": 612
+  },
+  {
+   "filial": "3327 - Terra Nova do Vale 81",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2010.59,
+   "desconto": 151.29,
+   "venda_total": 550462.34,
+   "vendas_total": 522
+  },
+  {
+   "filial": "3328 - Encosta Alta 81",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 2007.95,
+   "desconto": 146.51,
+   "venda_total": 747361.1,
+   "vendas_total": 709
+  },
+  {
+   "filial": "3329 - Santo Amaro do Campo 81",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1992.59,
+   "desconto": 136.03,
+   "venda_total": 550567.63,
+   "vendas_total": 522
+  },
+  {
+   "filial": "3330 - Arroio Claro 81",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 1984.52,
+   "desconto": 188.22,
+   "venda_total": 312131.1,
+   "vendas_total": 296
+  },
+  {
+   "filial": "3331 - Nova Esperança 81",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 1968.89,
+   "desconto": 121.75,
+   "venda_total": 605592.18,
+   "vendas_total": 574
+  },
+  {
+   "filial": "3332 - Mata Branca 81",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 1964.95,
+   "desconto": 120.04,
+   "venda_total": 436151.84,
+   "vendas_total": 414
+  },
+  {
+   "filial": "3333 - Cachoeira do Norte 81",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1961.04,
+   "desconto": 115.52,
+   "venda_total": 456864.36,
+   "vendas_total": 433
+  },
+  {
+   "filial": "3334 - Pinhal Novo 81",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1959.94,
+   "desconto": 138.84,
+   "venda_total": 885322.21,
+   "vendas_total": 840
+  },
+  {
+   "filial": "3335 - Lajedo Alto 81",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 1942.65,
+   "desconto": 128.29,
+   "venda_total": 601433.75,
+   "vendas_total": 570
+  },
+  {
+   "filial": "3336 - Capão Verde 81",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 1938.54,
+   "desconto": 158.49,
+   "venda_total": 767778.85,
+   "vendas_total": 728
+  },
+  {
+   "filial": "3337 - Tupã Velho 81",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1895.32,
+   "desconto": 156.09,
+   "venda_total": 1235523.3,
+   "vendas_total": 1172
+  },
+  {
+   "filial": "3338 - Estância Nova 81",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 1893.63,
+   "desconto": 169.27,
+   "venda_total": 1453417.89,
+   "vendas_total": 1379
+  },
+  {
+   "filial": "3339 - Pratinha 81",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 1889.94,
+   "desconto": 182.57,
+   "venda_total": 571060.44,
+   "vendas_total": 542
+  },
+  {
+   "filial": "3340 - Coxilha Real 81",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1879.23,
+   "desconto": 127.86,
+   "venda_total": 488881.05,
+   "vendas_total": 464
+  },
+  {
+   "filial": "3341 - Alvorada Nova 82",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 1876.18,
+   "desconto": 124.22,
+   "venda_total": 1039776.64,
+   "vendas_total": 986
+  },
+  {
+   "filial": "3342 - Campo Verde 82",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 1865.06,
+   "desconto": 176.77,
+   "venda_total": 767092.2,
+   "vendas_total": 728
+  },
+  {
+   "filial": "3343 - Vila Aurora 82",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1861.67,
+   "desconto": 151.02,
+   "venda_total": 271136.73,
+   "vendas_total": 257
+  },
+  {
+   "filial": "3344 - Porto Sereno 82",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 1857.66,
+   "desconto": 127.19,
+   "venda_total": 272706.87,
+   "vendas_total": 259
+  },
+  {
+   "filial": "3345 - Monte Claro 82",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 1857.26,
+   "desconto": 166.44,
+   "venda_total": 593884.24,
+   "vendas_total": 563
+  },
+  {
+   "filial": "3346 - Rio Manso 82",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1849.52,
+   "desconto": 156.7,
+   "venda_total": 631555.67,
+   "vendas_total": 599
+  },
+  {
+   "filial": "3347 - Serra Azul 82",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 1828.18,
+   "desconto": 142.72,
+   "venda_total": 359043.09,
+   "vendas_total": 341
+  },
+  {
+   "filial": "3348 - Lagoa Dourada 82",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1822.21,
+   "desconto": 117.03,
+   "venda_total": 785925.52,
+   "vendas_total": 746
+  },
+  {
+   "filial": "3349 - Bela Vista do Sul 82",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 1818.07,
+   "desconto": 155.12,
+   "venda_total": 391668.9,
+   "vendas_total": 371
+  },
+  {
+   "filial": "3350 - Pedra Branca 82",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 1807.91,
+   "desconto": 130.18,
+   "venda_total": 381636.53,
+   "vendas_total": 362
+  },
+  {
+   "filial": "3351 - Santa Aurora 82",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 1794.33,
+   "desconto": 115.04,
+   "venda_total": 842949.73,
+   "vendas_total": 799
+  },
+  {
+   "filial": "3352 - São Tomé do Vale 82",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1791.9,
+   "desconto": 135.75,
+   "venda_total": 485937.45,
+   "vendas_total": 461
+  },
+  {
+   "filial": "3353 - Cerro Alto 82",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1790.53,
+   "desconto": 120.46,
+   "venda_total": 323222.97,
+   "vendas_total": 307
+  },
+  {
+   "filial": "3354 - Ponte Nova do Sul 82",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1786.55,
+   "desconto": 130.54,
+   "venda_total": 628596.32,
+   "vendas_total": 596
+  },
+  {
+   "filial": "3355 - Praia Serena 82",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 1777.08,
+   "desconto": 147.6,
+   "venda_total": 391971.51,
+   "vendas_total": 372
+  },
+  {
+   "filial": "3356 - Vale do Sol 82",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 1773.21,
+   "desconto": 128.99,
+   "venda_total": 695909.58,
+   "vendas_total": 660
+  },
+  {
+   "filial": "3357 - Colina Verde 82",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 1759.91,
+   "desconto": 112.18,
+   "venda_total": 657480.07,
+   "vendas_total": 624
+  },
+  {
+   "filial": "3358 - Barra Funda do Norte 82",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1750.28,
+   "desconto": 149.14,
+   "venda_total": 673406.66,
+   "vendas_total": 639
+  },
+  {
+   "filial": "3359 - Fonte Clara 82",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1726.54,
+   "desconto": 123.0,
+   "venda_total": 672379.98,
+   "vendas_total": 638
+  },
+  {
+   "filial": "3360 - Morro Azul 82",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 1722.63,
+   "desconto": 116.62,
+   "venda_total": 477418.43,
+   "vendas_total": 453
+  },
+  {
+   "filial": "3361 - Campina Real 82",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 1704.37,
+   "desconto": 125.31,
+   "venda_total": 596148.36,
+   "vendas_total": 565
+  },
+  {
+   "filial": "3362 - Ilha Dourada 82",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 1700.79,
+   "desconto": 142.08,
+   "venda_total": 423621.83,
+   "vendas_total": 402
+  },
+  {
+   "filial": "3363 - Boa Esperança do Sul 82",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1700.2,
+   "desconto": 136.94,
+   "venda_total": 346705.52,
+   "vendas_total": 329
+  },
+  {
+   "filial": "3364 - Passo da Lagoa 82",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1699.6,
+   "desconto": 121.98,
+   "venda_total": 318120.68,
+   "vendas_total": 302
+  },
+  {
+   "filial": "3365 - Rincão Verde 82",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1686.24,
+   "desconto": 126.24,
+   "venda_total": 242036.58,
+   "vendas_total": 230
+  },
+  {
+   "filial": "3366 - Ventania 82",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1680.76,
+   "desconto": 104.76,
+   "venda_total": 445129.61,
+   "vendas_total": 422
+  },
+  {
+   "filial": "3367 - Terra Nova do Vale 82",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1679.49,
+   "desconto": 110.78,
+   "venda_total": 761198.15,
+   "vendas_total": 722
+  },
+  {
+   "filial": "3368 - Encosta Alta 82",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1670.03,
+   "desconto": 121.59,
+   "venda_total": 513425.05,
+   "vendas_total": 487
+  },
+  {
+   "filial": "3369 - Santo Amaro do Campo 82",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 1663.64,
+   "desconto": 127.53,
+   "venda_total": 708905.99,
+   "vendas_total": 672
+  },
+  {
+   "filial": "3370 - Arroio Claro 82",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1651.74,
+   "desconto": 125.25,
+   "venda_total": 715827.0,
+   "vendas_total": 679
+  },
+  {
+   "filial": "3371 - Nova Esperança 82",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 1641.75,
+   "desconto": 130.88,
+   "venda_total": 820002.74,
+   "vendas_total": 778
+  },
+  {
+   "filial": "3372 - Mata Branca 82",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 1640.16,
+   "desconto": 108.85,
+   "venda_total": 888877.56,
+   "vendas_total": 843
+  },
+  {
+   "filial": "3373 - Cachoeira do Norte 82",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1621.98,
+   "desconto": 138.76,
+   "venda_total": 345934.87,
+   "vendas_total": 328
+  },
+  {
+   "filial": "3374 - Pinhal Novo 82",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1559.32,
+   "desconto": 150.81,
+   "venda_total": 458877.89,
+   "vendas_total": 435
+  },
+  {
+   "filial": "3375 - Lajedo Alto 82",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 1557.03,
+   "desconto": 123.33,
+   "venda_total": 390795.53,
+   "vendas_total": 371
+  },
+  {
+   "filial": "3376 - Capão Verde 82",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 1548.32,
+   "desconto": 120.23,
+   "venda_total": 561181.61,
+   "vendas_total": 532
+  },
+  {
+   "filial": "3377 - Tupã Velho 82",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1546.68,
+   "desconto": 104.82,
+   "venda_total": 446466.18,
+   "vendas_total": 423
+  },
+  {
+   "filial": "3378 - Estância Nova 82",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 1545.63,
+   "desconto": 118.22,
+   "venda_total": 845179.81,
+   "vendas_total": 802
+  },
+  {
+   "filial": "3379 - Pratinha 82",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 1544.44,
+   "desconto": 98.38,
+   "venda_total": 390452.25,
+   "vendas_total": 370
+  },
+  {
+   "filial": "3380 - Coxilha Real 82",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1542.25,
+   "desconto": 134.54,
+   "venda_total": 529690.22,
+   "vendas_total": 503
+  },
+  {
+   "filial": "3381 - Alvorada Nova 83",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1539.41,
+   "desconto": 127.26,
+   "venda_total": 644595.26,
+   "vendas_total": 611
+  },
+  {
+   "filial": "3382 - Campo Verde 83",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1515.29,
+   "desconto": 132.55,
+   "venda_total": 513652.94,
+   "vendas_total": 487
+  },
+  {
+   "filial": "3383 - Vila Aurora 83",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1514.03,
+   "desconto": 141.03,
+   "venda_total": 408344.56,
+   "vendas_total": 388
+  },
+  {
+   "filial": "3384 - Porto Sereno 83",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 1490.18,
+   "desconto": 113.92,
+   "venda_total": 285960.66,
+   "vendas_total": 271
+  },
+  {
+   "filial": "3385 - Monte Claro 83",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 1488.39,
+   "desconto": 115.14,
+   "venda_total": 431299.62,
+   "vendas_total": 409
+  },
+  {
+   "filial": "3386 - Rio Manso 83",
+   "regional": "COSTA DOURADA",
+   "vendas": 1,
+   "venda": 1481.19,
+   "desconto": 108.1,
+   "venda_total": 330114.38,
+   "vendas_total": 313
+  },
+  {
+   "filial": "3387 - Serra Azul 83",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1478.26,
+   "desconto": 104.63,
+   "venda_total": 730868.91,
+   "vendas_total": 693
+  },
+  {
+   "filial": "3388 - Lagoa Dourada 83",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 1472.9,
+   "desconto": 115.98,
+   "venda_total": 697892.54,
+   "vendas_total": 662
+  },
+  {
+   "filial": "3389 - Bela Vista do Sul 83",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1463.85,
+   "desconto": 114.8,
+   "venda_total": 711552.85,
+   "vendas_total": 675
+  },
+  {
+   "filial": "3390 - Pedra Branca 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1449.84,
+   "desconto": 104.7,
+   "venda_total": 396182.49,
+   "vendas_total": 376
+  },
+  {
+   "filial": "3391 - Santa Aurora 83",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 1443.51,
+   "desconto": 127.1,
+   "venda_total": 1012455.22,
+   "vendas_total": 960
+  },
+  {
+   "filial": "3392 - São Tomé do Vale 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1442.93,
+   "desconto": 98.69,
+   "venda_total": 549922.14,
+   "vendas_total": 522
+  },
+  {
+   "filial": "3393 - Cerro Alto 83",
+   "regional": "RIOS",
+   "vendas": 1,
+   "venda": 1411.74,
+   "desconto": 94.69,
+   "venda_total": 645095.14,
+   "vendas_total": 612
+  },
+  {
+   "filial": "3394 - Ponte Nova do Sul 83",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1408.63,
+   "desconto": 122.44,
+   "venda_total": 294585.8,
+   "vendas_total": 279
+  },
+  {
+   "filial": "3395 - Praia Serena 83",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1389.98,
+   "desconto": 114.18,
+   "venda_total": 598564.18,
+   "vendas_total": 568
+  },
+  {
+   "filial": "3396 - Vale do Sol 83",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 1389.65,
+   "desconto": 133.1,
+   "venda_total": 543748.87,
+   "vendas_total": 516
+  },
+  {
+   "filial": "3397 - Colina Verde 83",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 1386.64,
+   "desconto": 132.83,
+   "venda_total": 428992.26,
+   "vendas_total": 407
+  },
+  {
+   "filial": "3398 - Barra Funda do Norte 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1378.4,
+   "desconto": 125.38,
+   "venda_total": 214987.41,
+   "vendas_total": 204
+  },
+  {
+   "filial": "3399 - Fonte Clara 83",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1364.97,
+   "desconto": 98.55,
+   "venda_total": 309769.07,
+   "vendas_total": 294
+  },
+  {
+   "filial": "3400 - Morro Azul 83",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 1,
+   "venda": 1363.74,
+   "desconto": 117.99,
+   "venda_total": 558999.88,
+   "vendas_total": 530
+  },
+  {
+   "filial": "3401 - Campina Real 83",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 1355.66,
+   "desconto": 123.41,
+   "venda_total": 392039.25,
+   "vendas_total": 372
+  },
+  {
+   "filial": "3402 - Ilha Dourada 83",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 1354.76,
+   "desconto": 121.72,
+   "venda_total": 411795.3,
+   "vendas_total": 391
+  },
+  {
+   "filial": "3403 - Boa Esperança do Sul 83",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1351.14,
+   "desconto": 98.37,
+   "venda_total": 309681.3,
+   "vendas_total": 294
+  },
+  {
+   "filial": "3404 - Passo da Lagoa 83",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 1332.35,
+   "desconto": 112.52,
+   "venda_total": 605639.41,
+   "vendas_total": 574
+  },
+  {
+   "filial": "3405 - Rincão Verde 83",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1325.57,
+   "desconto": 93.84,
+   "venda_total": 315216.94,
+   "vendas_total": 299
+  },
+  {
+   "filial": "3406 - Ventania 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1321.4,
+   "desconto": 110.81,
+   "venda_total": 471382.67,
+   "vendas_total": 447
+  },
+  {
+   "filial": "3407 - Terra Nova do Vale 83",
+   "regional": "PLANALTO",
+   "vendas": 1,
+   "venda": 1318.85,
+   "desconto": 108.47,
+   "venda_total": 273537.75,
+   "vendas_total": 259
+  },
+  {
+   "filial": "3408 - Encosta Alta 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1312.86,
+   "desconto": 100.12,
+   "venda_total": 412046.18,
+   "vendas_total": 391
+  },
+  {
+   "filial": "3409 - Santo Amaro do Campo 83",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1311.15,
+   "desconto": 97.98,
+   "venda_total": 618645.38,
+   "vendas_total": 587
+  },
+  {
+   "filial": "3410 - Arroio Claro 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1306.07,
+   "desconto": 142.16,
+   "venda_total": 463209.77,
+   "vendas_total": 439
+  },
+  {
+   "filial": "3411 - Nova Esperança 83",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 1297.81,
+   "desconto": 90.82,
+   "venda_total": 327975.96,
+   "vendas_total": 311
+  },
+  {
+   "filial": "3412 - Mata Branca 83",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 1282.29,
+   "desconto": 91.57,
+   "venda_total": 465402.3,
+   "vendas_total": 441
+  },
+  {
+   "filial": "3413 - Cachoeira do Norte 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1268.74,
+   "desconto": 115.27,
+   "venda_total": 326690.03,
+   "vendas_total": 310
+  },
+  {
+   "filial": "3414 - Pinhal Novo 83",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 1260.62,
+   "desconto": 128.57,
+   "venda_total": 302392.22,
+   "vendas_total": 287
+  },
+  {
+   "filial": "3415 - Lajedo Alto 83",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1251.55,
+   "desconto": 69.67,
+   "venda_total": 481962.4,
+   "vendas_total": 457
+  },
+  {
+   "filial": "3416 - Capão Verde 83",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1250.02,
+   "desconto": 110.52,
+   "venda_total": 442701.68,
+   "vendas_total": 420
+  },
+  {
+   "filial": "3417 - Tupã Velho 83",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 1242.81,
+   "desconto": 164.79,
+   "venda_total": 673441.97,
+   "vendas_total": 639
+  },
+  {
+   "filial": "3418 - Estância Nova 83",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1224.44,
+   "desconto": 88.59,
+   "venda_total": 509985.25,
+   "vendas_total": 484
+  },
+  {
+   "filial": "3419 - Pratinha 83",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1217.54,
+   "desconto": 95.21,
+   "venda_total": 545480.92,
+   "vendas_total": 517
+  },
+  {
+   "filial": "3420 - Coxilha Real 83",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1216.27,
+   "desconto": 96.91,
+   "venda_total": 577285.77,
+   "vendas_total": 547
+  },
+  {
+   "filial": "3421 - Alvorada Nova 84",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1214.03,
+   "desconto": 103.73,
+   "venda_total": 604066.91,
+   "vendas_total": 573
+  },
+  {
+   "filial": "3422 - Campo Verde 84",
+   "regional": "COSTA AZUL",
+   "vendas": 1,
+   "venda": 1202.51,
+   "desconto": 129.75,
+   "venda_total": 497644.31,
+   "vendas_total": 472
+  },
+  {
+   "filial": "3423 - Vila Aurora 84",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1195.0,
+   "desconto": 91.74,
+   "venda_total": 164264.6,
+   "vendas_total": 156
+  },
+  {
+   "filial": "3424 - Porto Sereno 84",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 1174.06,
+   "desconto": 95.82,
+   "venda_total": 1023777.2,
+   "vendas_total": 971
+  },
+  {
+   "filial": "3425 - Monte Claro 84",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 1172.49,
+   "desconto": 104.81,
+   "venda_total": 387962.68,
+   "vendas_total": 368
+  },
+  {
+   "filial": "3426 - Rio Manso 84",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1167.28,
+   "desconto": 124.55,
+   "venda_total": 522509.89,
+   "vendas_total": 496
+  },
+  {
+   "filial": "3427 - Serra Azul 84",
+   "regional": "CAPITAL",
+   "vendas": 1,
+   "venda": 1161.17,
+   "desconto": 90.24,
+   "venda_total": 680513.86,
+   "vendas_total": 645
+  },
+  {
+   "filial": "3428 - Lagoa Dourada 84",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 1157.85,
+   "desconto": 79.18,
+   "venda_total": 402673.82,
+   "vendas_total": 382
+  },
+  {
+   "filial": "3429 - Bela Vista do Sul 84",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 1155.99,
+   "desconto": 62.96,
+   "venda_total": 754258.27,
+   "vendas_total": 715
+  },
+  {
+   "filial": "3430 - Pedra Branca 84",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1145.55,
+   "desconto": 79.78,
+   "venda_total": 724584.03,
+   "vendas_total": 687
+  },
+  {
+   "filial": "3431 - Santa Aurora 84",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1143.15,
+   "desconto": 91.5,
+   "venda_total": 828056.7,
+   "vendas_total": 786
+  },
+  {
+   "filial": "3432 - São Tomé do Vale 84",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 1137.32,
+   "desconto": 80.8,
+   "venda_total": 477962.48,
+   "vendas_total": 454
+  },
+  {
+   "filial": "3433 - Cerro Alto 84",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1137.06,
+   "desconto": 81.44,
+   "venda_total": 430723.35,
+   "vendas_total": 409
+  },
+  {
+   "filial": "3434 - Ponte Nova do Sul 84",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1131.37,
+   "desconto": 104.63,
+   "venda_total": 649986.53,
+   "vendas_total": 617
+  },
+  {
+   "filial": "3435 - Praia Serena 84",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1126.77,
+   "desconto": 82.99,
+   "venda_total": 434906.27,
+   "vendas_total": 413
+  },
+  {
+   "filial": "3436 - Vale do Sol 84",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1125.03,
+   "desconto": 80.57,
+   "venda_total": 532964.7,
+   "vendas_total": 506
+  },
+  {
+   "filial": "3437 - Colina Verde 84",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 1117.04,
+   "desconto": 96.96,
+   "venda_total": 407163.43,
+   "vendas_total": 386
+  },
+  {
+   "filial": "3438 - Barra Funda do Norte 84",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1109.39,
+   "desconto": 85.48,
+   "venda_total": 610752.03,
+   "vendas_total": 579
+  },
+  {
+   "filial": "3439 - Fonte Clara 84",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1108.9,
+   "desconto": 87.23,
+   "venda_total": 569117.22,
+   "vendas_total": 540
+  },
+  {
+   "filial": "3440 - Morro Azul 84",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 1097.36,
+   "desconto": 83.27,
+   "venda_total": 476912.16,
+   "vendas_total": 452
+  },
+  {
+   "filial": "3441 - Campina Real 84",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 1090.21,
+   "desconto": 112.71,
+   "venda_total": 420940.02,
+   "vendas_total": 399
+  },
+  {
+   "filial": "3442 - Ilha Dourada 84",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 1087.86,
+   "desconto": 96.68,
+   "venda_total": 482160.07,
+   "vendas_total": 457
+  },
+  {
+   "filial": "3443 - Boa Esperança do Sul 84",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 1086.32,
+   "desconto": 76.87,
+   "venda_total": 362953.53,
+   "vendas_total": 344
+  },
+  {
+   "filial": "3444 - Passo da Lagoa 84",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1076.38,
+   "desconto": 85.62,
+   "venda_total": 1202705.27,
+   "vendas_total": 1141
+  },
+  {
+   "filial": "3445 - Rincão Verde 84",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 1061.28,
+   "desconto": 70.74,
+   "venda_total": 431790.17,
+   "vendas_total": 410
+  },
+  {
+   "filial": "3446 - Ventania 84",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 1059.39,
+   "desconto": 91.96,
+   "venda_total": 854257.88,
+   "vendas_total": 810
+  },
+  {
+   "filial": "3447 - Terra Nova do Vale 84",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 1046.65,
+   "desconto": 75.35,
+   "venda_total": 297865.88,
+   "vendas_total": 282
+  },
+  {
+   "filial": "3448 - Encosta Alta 84",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 1046.59,
+   "desconto": 68.14,
+   "venda_total": 156702.35,
+   "vendas_total": 149
+  },
+  {
+   "filial": "3449 - Santo Amaro do Campo 84",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1037.57,
+   "desconto": 83.98,
+   "venda_total": 431684.81,
+   "vendas_total": 410
+  },
+  {
+   "filial": "3450 - Arroio Claro 84",
+   "regional": "DIVISA",
+   "vendas": 1,
+   "venda": 1028.34,
+   "desconto": 91.13,
+   "venda_total": 510881.34,
+   "vendas_total": 485
+  },
+  {
+   "filial": "3451 - Nova Esperança 84",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 1001.81,
+   "desconto": 69.56,
+   "venda_total": 838531.17,
+   "vendas_total": 795
+  },
+  {
+   "filial": "3452 - Mata Branca 84",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 992.99,
+   "desconto": 64.64,
+   "venda_total": 531510.53,
+   "vendas_total": 504
+  },
+  {
+   "filial": "3453 - Cachoeira do Norte 84",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 981.49,
+   "desconto": 76.46,
+   "venda_total": 419473.41,
+   "vendas_total": 398
+  },
+  {
+   "filial": "3454 - Pinhal Novo 84",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 972.03,
+   "desconto": 51.85,
+   "venda_total": 447356.93,
+   "vendas_total": 424
+  },
+  {
+   "filial": "3455 - Lajedo Alto 84",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 970.56,
+   "desconto": 94.02,
+   "venda_total": 330774.68,
+   "vendas_total": 314
+  },
+  {
+   "filial": "3456 - Capão Verde 84",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 959.55,
+   "desconto": 105.52,
+   "venda_total": 462198.65,
+   "vendas_total": 438
+  },
+  {
+   "filial": "3457 - Tupã Velho 84",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 956.78,
+   "desconto": 70.09,
+   "venda_total": 470869.05,
+   "vendas_total": 447
+  },
+  {
+   "filial": "3458 - Estância Nova 84",
+   "regional": "VALE VERDE",
+   "vendas": 1,
+   "venda": 948.74,
+   "desconto": 87.39,
+   "venda_total": 385139.7,
+   "vendas_total": 365
+  },
+  {
+   "filial": "3459 - Pratinha 84",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 947.06,
+   "desconto": 64.53,
+   "venda_total": 430366.3,
+   "vendas_total": 408
+  },
+  {
+   "filial": "3460 - Coxilha Real 84",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 946.76,
+   "desconto": 70.17,
+   "venda_total": 502637.76,
+   "vendas_total": 477
+  },
+  {
+   "filial": "3461 - Alvorada Nova 85",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 946.43,
+   "desconto": 76.17,
+   "venda_total": 614632.64,
+   "vendas_total": 583
+  },
+  {
+   "filial": "3462 - Campo Verde 85",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 917.4,
+   "desconto": 62.41,
+   "venda_total": 242003.39,
+   "vendas_total": 230
+  },
+  {
+   "filial": "3463 - Vila Aurora 85",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 912.37,
+   "desconto": 74.06,
+   "venda_total": 362281.14,
+   "vendas_total": 344
+  },
+  {
+   "filial": "3464 - Porto Sereno 85",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 911.67,
+   "desconto": 70.85,
+   "venda_total": 355484.83,
+   "vendas_total": 337
+  },
+  {
+   "filial": "3465 - Monte Claro 85",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 908.24,
+   "desconto": 66.13,
+   "venda_total": 512860.43,
+   "vendas_total": 486
+  },
+  {
+   "filial": "3466 - Rio Manso 85",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 890.83,
+   "desconto": 60.16,
+   "venda_total": 534524.09,
+   "vendas_total": 507
+  },
+  {
+   "filial": "3467 - Serra Azul 85",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 888.5,
+   "desconto": 81.76,
+   "venda_total": 372139.04,
+   "vendas_total": 353
+  },
+  {
+   "filial": "3468 - Lagoa Dourada 85",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 887.4,
+   "desconto": 59.41,
+   "venda_total": 335282.35,
+   "vendas_total": 318
+  },
+  {
+   "filial": "3469 - Bela Vista do Sul 85",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 874.59,
+   "desconto": 79.48,
+   "venda_total": 520542.26,
+   "vendas_total": 494
+  },
+  {
+   "filial": "3470 - Pedra Branca 85",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 860.63,
+   "desconto": 65.69,
+   "venda_total": 292540.6,
+   "vendas_total": 277
+  },
+  {
+   "filial": "3471 - Santa Aurora 85",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 841.57,
+   "desconto": 51.22,
+   "venda_total": 314855.98,
+   "vendas_total": 299
+  },
+  {
+   "filial": "3472 - São Tomé do Vale 85",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 839.43,
+   "desconto": 63.9,
+   "venda_total": 491708.47,
+   "vendas_total": 467
+  },
+  {
+   "filial": "3473 - Cerro Alto 85",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 832.54,
+   "desconto": 60.2,
+   "venda_total": 574580.29,
+   "vendas_total": 545
+  },
+  {
+   "filial": "3474 - Ponte Nova do Sul 85",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 826.93,
+   "desconto": 80.9,
+   "venda_total": 460098.62,
+   "vendas_total": 436
+  },
+  {
+   "filial": "3475 - Praia Serena 85",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 826.24,
+   "desconto": 52.76,
+   "venda_total": 168759.77,
+   "vendas_total": 160
+  },
+  {
+   "filial": "3476 - Vale do Sol 85",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 816.37,
+   "desconto": 63.01,
+   "venda_total": 229419.34,
+   "vendas_total": 218
+  },
+  {
+   "filial": "3477 - Colina Verde 85",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 812.26,
+   "desconto": 78.97,
+   "venda_total": 267148.64,
+   "vendas_total": 253
+  },
+  {
+   "filial": "3478 - Barra Funda do Norte 85",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 809.3,
+   "desconto": 71.02,
+   "venda_total": 612653.68,
+   "vendas_total": 581
+  },
+  {
+   "filial": "3479 - Fonte Clara 85",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 806.7,
+   "desconto": 73.12,
+   "venda_total": 380214.13,
+   "vendas_total": 361
+  },
+  {
+   "filial": "3480 - Morro Azul 85",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 803.75,
+   "desconto": 68.86,
+   "venda_total": 381370.34,
+   "vendas_total": 362
+  },
+  {
+   "filial": "3481 - Campina Real 85",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 793.83,
+   "desconto": 59.69,
+   "venda_total": 406853.69,
+   "vendas_total": 386
+  },
+  {
+   "filial": "3482 - Ilha Dourada 85",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 789.08,
+   "desconto": 60.46,
+   "venda_total": 547568.6,
+   "vendas_total": 520
+  },
+  {
+   "filial": "3483 - Boa Esperança do Sul 85",
+   "regional": "SERRA ALTA",
+   "vendas": 1,
+   "venda": 783.72,
+   "desconto": 71.33,
+   "venda_total": 323469.21,
+   "vendas_total": 307
+  },
+  {
+   "filial": "3484 - Passo da Lagoa 85",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 783.65,
+   "desconto": 72.88,
+   "venda_total": 769777.53,
+   "vendas_total": 730
+  },
+  {
+   "filial": "3485 - Rincão Verde 85",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 775.14,
+   "desconto": 58.68,
+   "venda_total": 363611.85,
+   "vendas_total": 345
+  },
+  {
+   "filial": "3486 - Ventania 85",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 775.12,
+   "desconto": 51.83,
+   "venda_total": 237643.7,
+   "vendas_total": 225
+  },
+  {
+   "filial": "3487 - Terra Nova do Vale 85",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 768.23,
+   "desconto": 62.6,
+   "venda_total": 434285.76,
+   "vendas_total": 412
+  },
+  {
+   "filial": "3488 - Encosta Alta 85",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 766.23,
+   "desconto": 65.6,
+   "venda_total": 444324.01,
+   "vendas_total": 422
+  },
+  {
+   "filial": "3489 - Santo Amaro do Campo 85",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 763.93,
+   "desconto": 61.71,
+   "venda_total": 687423.67,
+   "vendas_total": 652
+  },
+  {
+   "filial": "3490 - Arroio Claro 85",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 760.95,
+   "desconto": 63.11,
+   "venda_total": 269324.14,
+   "vendas_total": 255
+  },
+  {
+   "filial": "3491 - Nova Esperança 85",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 747.96,
+   "desconto": 67.45,
+   "venda_total": 353936.73,
+   "vendas_total": 336
+  },
+  {
+   "filial": "3492 - Mata Branca 85",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 745.31,
+   "desconto": 67.76,
+   "venda_total": 393091.65,
+   "vendas_total": 373
+  },
+  {
+   "filial": "3493 - Cachoeira do Norte 85",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 732.72,
+   "desconto": 46.7,
+   "venda_total": 572501.25,
+   "vendas_total": 543
+  },
+  {
+   "filial": "3494 - Pinhal Novo 85",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 729.99,
+   "desconto": 65.45,
+   "venda_total": 627184.55,
+   "vendas_total": 595
+  },
+  {
+   "filial": "3495 - Lajedo Alto 85",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 707.43,
+   "desconto": 47.76,
+   "venda_total": 332710.13,
+   "vendas_total": 316
+  },
+  {
+   "filial": "3496 - Capão Verde 85",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 704.38,
+   "desconto": 51.9,
+   "venda_total": 536590.83,
+   "vendas_total": 509
+  },
+  {
+   "filial": "3497 - Tupã Velho 85",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 685.29,
+   "desconto": 45.73,
+   "venda_total": 358073.6,
+   "vendas_total": 340
+  },
+  {
+   "filial": "3498 - Estância Nova 85",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 684.53,
+   "desconto": 54.62,
+   "venda_total": 329541.78,
+   "vendas_total": 312
+  },
+  {
+   "filial": "3499 - Pratinha 85",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 671.32,
+   "desconto": 52.82,
+   "venda_total": 466026.84,
+   "vendas_total": 442
+  },
+  {
+   "filial": "3500 - Coxilha Real 85",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 667.91,
+   "desconto": 43.27,
+   "venda_total": 349350.81,
+   "vendas_total": 331
+  },
+  {
+   "filial": "3501 - Alvorada Nova 86",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 634.51,
+   "desconto": 55.67,
+   "venda_total": 258448.59,
+   "vendas_total": 245
+  },
+  {
+   "filial": "3502 - Campo Verde 86",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 632.97,
+   "desconto": 60.51,
+   "venda_total": 330095.12,
+   "vendas_total": 313
+  },
+  {
+   "filial": "3503 - Vila Aurora 86",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 628.36,
+   "desconto": 54.49,
+   "venda_total": 449481.55,
+   "vendas_total": 426
+  },
+  {
+   "filial": "3504 - Porto Sereno 86",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 626.96,
+   "desconto": 47.6,
+   "venda_total": 651882.19,
+   "vendas_total": 618
+  },
+  {
+   "filial": "3505 - Monte Claro 86",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 625.2,
+   "desconto": 41.22,
+   "venda_total": 222456.88,
+   "vendas_total": 211
+  },
+  {
+   "filial": "3506 - Rio Manso 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 624.27,
+   "desconto": 42.27,
+   "venda_total": 547546.87,
+   "vendas_total": 519
+  },
+  {
+   "filial": "3507 - Serra Azul 86",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 618.92,
+   "desconto": 47.35,
+   "venda_total": 304311.4,
+   "vendas_total": 289
+  },
+  {
+   "filial": "3508 - Lagoa Dourada 86",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 618.34,
+   "desconto": 42.57,
+   "venda_total": 733400.38,
+   "vendas_total": 696
+  },
+  {
+   "filial": "3509 - Bela Vista do Sul 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 614.66,
+   "desconto": 53.43,
+   "venda_total": 241769.43,
+   "vendas_total": 229
+  },
+  {
+   "filial": "3510 - Pedra Branca 86",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 609.24,
+   "desconto": 38.78,
+   "venda_total": 363413.41,
+   "vendas_total": 345
+  },
+  {
+   "filial": "3511 - Santa Aurora 86",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 605.82,
+   "desconto": 54.72,
+   "venda_total": 438766.0,
+   "vendas_total": 416
+  },
+  {
+   "filial": "3512 - São Tomé do Vale 86",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 603.33,
+   "desconto": 57.58,
+   "venda_total": 371064.56,
+   "vendas_total": 352
+  },
+  {
+   "filial": "3513 - Cerro Alto 86",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 601.32,
+   "desconto": 60.82,
+   "venda_total": 295868.25,
+   "vendas_total": 281
+  },
+  {
+   "filial": "3514 - Ponte Nova do Sul 86",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 599.2,
+   "desconto": 46.11,
+   "venda_total": 231693.98,
+   "vendas_total": 220
+  },
+  {
+   "filial": "3515 - Praia Serena 86",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 593.25,
+   "desconto": 43.12,
+   "venda_total": 773174.33,
+   "vendas_total": 733
+  },
+  {
+   "filial": "3516 - Vale do Sol 86",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 588.37,
+   "desconto": 56.22,
+   "venda_total": 328094.75,
+   "vendas_total": 311
+  },
+  {
+   "filial": "3517 - Colina Verde 86",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 586.77,
+   "desconto": 40.95,
+   "venda_total": 209970.43,
+   "vendas_total": 199
+  },
+  {
+   "filial": "3518 - Barra Funda do Norte 86",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 584.43,
+   "desconto": 57.5,
+   "venda_total": 255756.47,
+   "vendas_total": 243
+  },
+  {
+   "filial": "3519 - Fonte Clara 86",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 581.97,
+   "desconto": 45.96,
+   "venda_total": 431925.71,
+   "vendas_total": 410
+  },
+  {
+   "filial": "3520 - Morro Azul 86",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 580.72,
+   "desconto": 47.36,
+   "venda_total": 353194.87,
+   "vendas_total": 335
+  },
+  {
+   "filial": "3521 - Campina Real 86",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 571.24,
+   "desconto": 46.92,
+   "venda_total": 221719.5,
+   "vendas_total": 210
+  },
+  {
+   "filial": "3522 - Ilha Dourada 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 566.66,
+   "desconto": 48.42,
+   "venda_total": 286953.32,
+   "vendas_total": 272
+  },
+  {
+   "filial": "3523 - Boa Esperança do Sul 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 542.14,
+   "desconto": 45.78,
+   "venda_total": 331341.24,
+   "vendas_total": 314
+  },
+  {
+   "filial": "3524 - Passo da Lagoa 86",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 537.83,
+   "desconto": 44.9,
+   "venda_total": 229606.44,
+   "vendas_total": 218
+  },
+  {
+   "filial": "3525 - Rincão Verde 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 532.92,
+   "desconto": 48.8,
+   "venda_total": 828889.9,
+   "vendas_total": 786
+  },
+  {
+   "filial": "3526 - Ventania 86",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 530.86,
+   "desconto": 38.12,
+   "venda_total": 280225.13,
+   "vendas_total": 266
+  },
+  {
+   "filial": "3527 - Terra Nova do Vale 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 525.57,
+   "desconto": 35.84,
+   "venda_total": 319081.58,
+   "vendas_total": 303
+  },
+  {
+   "filial": "3528 - Encosta Alta 86",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 520.11,
+   "desconto": 39.59,
+   "venda_total": 318813.11,
+   "vendas_total": 303
+  },
+  {
+   "filial": "3529 - Santo Amaro do Campo 86",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 519.34,
+   "desconto": 35.8,
+   "venda_total": 376166.73,
+   "vendas_total": 357
+  },
+  {
+   "filial": "3530 - Arroio Claro 86",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 519.27,
+   "desconto": 38.52,
+   "venda_total": 300304.25,
+   "vendas_total": 285
+  },
+  {
+   "filial": "3531 - Nova Esperança 86",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 510.29,
+   "desconto": 51.46,
+   "venda_total": 381790.03,
+   "vendas_total": 362
+  },
+  {
+   "filial": "3532 - Mata Branca 86",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 507.85,
+   "desconto": 38.15,
+   "venda_total": 166823.48,
+   "vendas_total": 158
+  },
+  {
+   "filial": "3533 - Cachoeira do Norte 86",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 505.44,
+   "desconto": 37.96,
+   "venda_total": 372019.7,
+   "vendas_total": 353
+  },
+  {
+   "filial": "3534 - Pinhal Novo 86",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 501.96,
+   "desconto": 41.19,
+   "venda_total": 405967.76,
+   "vendas_total": 385
+  },
+  {
+   "filial": "3535 - Lajedo Alto 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 493.07,
+   "desconto": 47.31,
+   "venda_total": 322231.93,
+   "vendas_total": 306
+  },
+  {
+   "filial": "3536 - Capão Verde 86",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 490.06,
+   "desconto": 56.08,
+   "venda_total": 379458.42,
+   "vendas_total": 360
+  },
+  {
+   "filial": "3537 - Tupã Velho 86",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 483.91,
+   "desconto": 45.61,
+   "venda_total": 378746.06,
+   "vendas_total": 359
+  },
+  {
+   "filial": "3538 - Estância Nova 86",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 482.34,
+   "desconto": 43.89,
+   "venda_total": 430448.31,
+   "vendas_total": 408
+  },
+  {
+   "filial": "3539 - Pratinha 86",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 479.98,
+   "desconto": 42.4,
+   "venda_total": 443264.78,
+   "vendas_total": 420
+  },
+  {
+   "filial": "3540 - Coxilha Real 86",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 429.46,
+   "desconto": 37.12,
+   "venda_total": 361403.65,
+   "vendas_total": 343
+  },
+  {
+   "filial": "3541 - Alvorada Nova 87",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 427.28,
+   "desconto": 31.77,
+   "venda_total": 173786.9,
+   "vendas_total": 165
+  },
+  {
+   "filial": "3542 - Campo Verde 87",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 422.7,
+   "desconto": 44.3,
+   "venda_total": 286553.83,
+   "vendas_total": 272
+  },
+  {
+   "filial": "3543 - Vila Aurora 87",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 417.74,
+   "desconto": 34.28,
+   "venda_total": 294477.11,
+   "vendas_total": 279
+  },
+  {
+   "filial": "3544 - Porto Sereno 87",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 415.75,
+   "desconto": 22.91,
+   "venda_total": 153054.53,
+   "vendas_total": 145
+  },
+  {
+   "filial": "3545 - Monte Claro 87",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 402.45,
+   "desconto": 31.41,
+   "venda_total": 184702.94,
+   "vendas_total": 175
+  },
+  {
+   "filial": "3546 - Rio Manso 87",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 400.62,
+   "desconto": 34.49,
+   "venda_total": 434557.29,
+   "vendas_total": 412
+  },
+  {
+   "filial": "3547 - Serra Azul 87",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 397.49,
+   "desconto": 35.74,
+   "venda_total": 165869.64,
+   "vendas_total": 157
+  },
+  {
+   "filial": "3548 - Lagoa Dourada 87",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 391.87,
+   "desconto": 24.27,
+   "venda_total": 290690.89,
+   "vendas_total": 276
+  },
+  {
+   "filial": "3549 - Bela Vista do Sul 87",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 391.3,
+   "desconto": 30.17,
+   "venda_total": 297419.47,
+   "vendas_total": 282
+  },
+  {
+   "filial": "3550 - Pedra Branca 87",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 387.99,
+   "desconto": 28.11,
+   "venda_total": 370526.88,
+   "vendas_total": 352
+  },
+  {
+   "filial": "3551 - Santa Aurora 87",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 381.6,
+   "desconto": 29.24,
+   "venda_total": 221853.57,
+   "vendas_total": 210
+  },
+  {
+   "filial": "3552 - São Tomé do Vale 87",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 378.54,
+   "desconto": 31.79,
+   "venda_total": 384890.31,
+   "vendas_total": 365
+  },
+  {
+   "filial": "3553 - Cerro Alto 87",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 371.17,
+   "desconto": 31.36,
+   "venda_total": 174928.83,
+   "vendas_total": 166
+  },
+  {
+   "filial": "3554 - Ponte Nova do Sul 87",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 365.12,
+   "desconto": 32.09,
+   "venda_total": 492860.39,
+   "vendas_total": 467
+  },
+  {
+   "filial": "3555 - Praia Serena 87",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 349.93,
+   "desconto": 23.16,
+   "venda_total": 195894.6,
+   "vendas_total": 186
+  },
+  {
+   "filial": "3556 - Vale do Sol 87",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 348.98,
+   "desconto": 23.59,
+   "venda_total": 323101.24,
+   "vendas_total": 307
+  },
+  {
+   "filial": "3557 - Colina Verde 87",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 340.98,
+   "desconto": 28.49,
+   "venda_total": 216811.54,
+   "vendas_total": 206
+  },
+  {
+   "filial": "3558 - Barra Funda do Norte 87",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 323.21,
+   "desconto": 21.8,
+   "venda_total": 211431.58,
+   "vendas_total": 201
+  },
+  {
+   "filial": "3559 - Fonte Clara 87",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 310.61,
+   "desconto": 21.48,
+   "venda_total": 398375.07,
+   "vendas_total": 378
+  },
+  {
+   "filial": "3560 - Morro Azul 87",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 309.65,
+   "desconto": 23.6,
+   "venda_total": 315259.2,
+   "vendas_total": 299
+  },
+  {
+   "filial": "3561 - Campina Real 87",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 309.17,
+   "desconto": 22.91,
+   "venda_total": 255305.73,
+   "vendas_total": 242
+  },
+  {
+   "filial": "3562 - Ilha Dourada 87",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 307.36,
+   "desconto": 26.09,
+   "venda_total": 423354.68,
+   "vendas_total": 401
+  },
+  {
+   "filial": "3563 - Boa Esperança do Sul 87",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 305.35,
+   "desconto": 25.88,
+   "venda_total": 519819.72,
+   "vendas_total": 493
+  },
+  {
+   "filial": "3564 - Passo da Lagoa 87",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 304.57,
+   "desconto": 28.46,
+   "venda_total": 278483.69,
+   "vendas_total": 264
+  },
+  {
+   "filial": "3565 - Rincão Verde 87",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 294.15,
+   "desconto": 22.82,
+   "venda_total": 444914.12,
+   "vendas_total": 422
+  },
+  {
+   "filial": "3566 - Ventania 87",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 288.89,
+   "desconto": 20.98,
+   "venda_total": 497176.34,
+   "vendas_total": 472
+  },
+  {
+   "filial": "3567 - Terra Nova do Vale 87",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 288.6,
+   "desconto": 24.01,
+   "venda_total": 262715.24,
+   "vendas_total": 249
+  },
+  {
+   "filial": "3568 - Encosta Alta 87",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 257.01,
+   "desconto": 21.29,
+   "venda_total": 125504.22,
+   "vendas_total": 119
+  },
+  {
+   "filial": "3569 - Santo Amaro do Campo 87",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 236.25,
+   "desconto": 20.92,
+   "venda_total": 263737.04,
+   "vendas_total": 250
+  },
+  {
+   "filial": "3570 - Arroio Claro 87",
+   "regional": "CAPITAL",
+   "vendas": 0,
+   "venda": 208.0,
+   "desconto": 19.39,
+   "venda_total": 330020.74,
+   "vendas_total": 313
+  },
+  {
+   "filial": "3571 - Nova Esperança 87",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 195.02,
+   "desconto": 12.05,
+   "venda_total": 259608.05,
+   "vendas_total": 246
+  },
+  {
+   "filial": "3572 - Mata Branca 87",
+   "regional": "VALE VERDE",
+   "vendas": 0,
+   "venda": 154.49,
+   "desconto": 12.17,
+   "venda_total": 225125.36,
+   "vendas_total": 214
+  },
+  {
+   "filial": "3573 - Cachoeira do Norte 87",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 2538768.59,
+   "vendas_total": 2408
+  },
+  {
+   "filial": "3574 - Pinhal Novo 87",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 1421065.59,
+   "vendas_total": 1348
+  },
+  {
+   "filial": "3575 - Lajedo Alto 87",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 1263534.76,
+   "vendas_total": 1198
+  },
+  {
+   "filial": "3576 - Capão Verde 87",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 1085659.95,
+   "vendas_total": 1030
+  },
+  {
+   "filial": "3577 - Tupã Velho 87",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 1031009.14,
+   "vendas_total": 978
+  },
+  {
+   "filial": "3578 - Estância Nova 87",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 916841.56,
+   "vendas_total": 870
+  },
+  {
+   "filial": "3579 - Pratinha 87",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 867991.42,
+   "vendas_total": 823
+  },
+  {
+   "filial": "3580 - Coxilha Real 87",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 847283.34,
+   "vendas_total": 804
+  },
+  {
+   "filial": "3581 - Alvorada Nova 88",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 736483.73,
+   "vendas_total": 699
+  },
+  {
+   "filial": "3582 - Campo Verde 88",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 701339.65,
+   "vendas_total": 665
+  },
+  {
+   "filial": "3583 - Vila Aurora 88",
+   "regional": "SERRA ALTA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 657241.95,
+   "vendas_total": 623
+  },
+  {
+   "filial": "489 - Santo Amaro do Campo 10",
+   "regional": "COSTA AZUL",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 638954.92,
+   "vendas_total": 606
+  },
+  {
+   "filial": "3584 - Porto Sereno 88",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 557470.49,
+   "vendas_total": 529
+  },
+  {
+   "filial": "3585 - Monte Claro 88",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 511657.86,
+   "vendas_total": 485
+  },
+  {
+   "filial": "3586 - Rio Manso 88",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 509031.72,
+   "vendas_total": 483
+  },
+  {
+   "filial": "3587 - Serra Azul 88",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 489983.19,
+   "vendas_total": 465
+  },
+  {
+   "filial": "3588 - Lagoa Dourada 88",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 479372.89,
+   "vendas_total": 455
+  },
+  {
+   "filial": "3589 - Bela Vista do Sul 88",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 458621.12,
+   "vendas_total": 435
+  },
+  {
+   "filial": "3590 - Pedra Branca 88",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 432829.09,
+   "vendas_total": 410
+  },
+  {
+   "filial": "3591 - Santa Aurora 88",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 427948.3,
+   "vendas_total": 406
+  },
+  {
+   "filial": "3592 - São Tomé do Vale 88",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 372750.23,
+   "vendas_total": 354
+  },
+  {
+   "filial": "3593 - Cerro Alto 88",
+   "regional": "COSTA DOURADA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 336035.84,
+   "vendas_total": 319
+  },
+  {
+   "filial": "3594 - Ponte Nova do Sul 88",
+   "regional": "RIOS",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 330105.75,
+   "vendas_total": 313
+  },
+  {
+   "filial": "3595 - Praia Serena 88",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 322219.58,
+   "vendas_total": 306
+  },
+  {
+   "filial": "3596 - Vale do Sol 88",
+   "regional": "PLANALTO",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 266171.51,
+   "vendas_total": 252
+  },
+  {
+   "filial": "3597 - Colina Verde 88",
+   "regional": "DIVISA",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 223880.66,
+   "vendas_total": 212
+  },
+  {
+   "filial": "3598 - Barra Funda do Norte 88",
+   "regional": "CAMPOS DO SUL",
+   "vendas": 0,
+   "venda": 0.0,
+   "desconto": 0.0,
+   "venda_total": 141279.18,
+   "vendas_total": 134
+  }
+ ],
+ "clientes": {
+  "totais": {
+   "venda_total": 198924752.69,
+   "vendas_total": 188696,
+   "cupons_vendas": 202
+  },
+  "grupos": [
+   {
+    "objetivo": "primeira_compra",
+    "nome": "Primeira compra",
+    "kpis": {
+     "vendas": 16,
+     "venda": 30911.15,
+     "desconto": 2225.6,
+     "ticket": 1955.16,
+     "desconto_pct": 0.072
+    },
+    "cupons": [
+     {
+      "cupom": "RUBI150",
+      "vendas": 8,
+      "venda": 18171.97,
+      "ticket": 2254.59,
+      "usos_total": 586,
+      "base": 1860,
+      "conv": 0.315
+     },
+     {
+      "cupom": "ARCO20",
+      "vendas": 5,
+      "venda": 8330.99,
+      "ticket": 1679.64,
+      "usos_total": 342,
+      "base": 1612,
+      "conv": 0.21192307692307694
+     },
+     {
+      "cupom": "OURO20",
+      "vendas": 2,
+      "venda": 3371.89,
+      "ticket": 1359.63,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "SAFIRA20",
+      "vendas": 0,
+      "venda": 1036.3,
+      "ticket": 3342.9,
+      "usos_total": 24,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "ILHA30",
+      "vendas": 0,
+      "venda": 0.0,
+      "ticket": null,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     }
+    ],
+    "departamentos": [
+     {
+      "departamento": "Móveis",
+      "vendas": 6,
+      "venda": 10024.28
+     },
+     {
+      "departamento": "Eletro",
+      "vendas": 4,
+      "venda": 7637.55
+     },
+     {
+      "departamento": "Moda Feminina",
+      "vendas": 2,
+      "venda": 4534.79
+     },
+     {
+      "departamento": "Tecnologia",
+      "vendas": 2,
+      "venda": 3818.77
+     },
+     {
+      "departamento": "Cama, mesa e banho",
+      "vendas": 2,
+      "venda": 2673.14
+     }
+    ],
+    "filiais": [
+     {
+      "pos": 1,
+      "filial": "101 - Alvorada Nova",
+      "usos": 1,
+      "venda": 1909.2,
+      "cupom_top": "RUBI150",
+      "n_cupons": 3
+     },
+     {
+      "pos": 2,
+      "filial": "102 - Campo Verde",
+      "usos": 1,
+      "venda": 1909.2,
+      "cupom_top": "ARCO20",
+      "n_cupons": 2
+     },
+     {
+      "pos": 3,
+      "filial": "103 - Vila Aurora",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "RUBI150",
+      "n_cupons": 2
+     },
+     {
+      "pos": 4,
+      "filial": "104 - Porto Sereno",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "RUBI150",
+      "n_cupons": 1
+     },
+     {
+      "pos": 5,
+      "filial": "105 - Monte Claro",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "SAFIRA20",
+      "n_cupons": 2
+     }
+    ],
+    "n_filiais": 45,
+    "ultimo_dia": {
+     "data": "2026-09-27",
+     "vendas": 0
+    }
+   },
+   {
+    "objetivo": "recuperacao",
+    "nome": "Recuperação",
+    "kpis": {
+     "vendas": 11,
+     "venda": 23381.25,
+     "desconto": 1683.45,
+     "ticket": 2154.95,
+     "desconto_pct": 0.072
+    },
+    "cupons": [
+     {
+      "cupom": "TURQUESA20",
+      "vendas": 7,
+      "venda": 13717.0,
+      "ticket": 2011.29,
+      "usos_total": 512,
+      "base": 1240,
+      "conv": 0.4125
+     },
+     {
+      "cupom": "MARE5",
+      "vendas": 3,
+      "venda": 8516.15,
+      "ticket": 2747.15,
+      "usos_total": 267,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "JADE200",
+      "vendas": 1,
+      "venda": 1148.1,
+      "ticket": 1234.52,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     }
+    ],
+    "departamentos": [
+     {
+      "departamento": "Eletro",
+      "vendas": 4,
+      "venda": 7160.2
+     },
+     {
+      "departamento": "Móveis",
+      "vendas": 3,
+      "venda": 5728.16
+     },
+     {
+      "departamento": "Moda Masculina",
+      "vendas": 2,
+      "venda": 3341.43
+     },
+     {
+      "departamento": "Tecnologia",
+      "vendas": 1,
+      "venda": 1909.38
+     },
+     {
+      "departamento": "Calçados",
+      "vendas": 1,
+      "venda": 1193.37
+     }
+    ],
+    "filiais": [
+     {
+      "pos": 1,
+      "filial": "106 - Rio Manso",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 2
+     },
+     {
+      "pos": 2,
+      "filial": "101 - Alvorada Nova",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "MARE5",
+      "n_cupons": 2
+     },
+     {
+      "pos": 3,
+      "filial": "107 - Serra Azul",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 1
+     },
+     {
+      "pos": 4,
+      "filial": "108 - Lagoa Dourada",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 3
+     },
+     {
+      "pos": 5,
+      "filial": "109 - Bela Vista do Sul",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "JADE200",
+      "n_cupons": 1
+     }
+    ],
+    "n_filiais": 45,
+    "ultimo_dia": {
+     "data": "2026-09-27",
+     "vendas": 0
+    }
+   }
+  ]
+ },
+ "midia": {
+  "grupos": [
+   {
+    "grupo": "Rádio",
+    "cupons": 8,
+    "ativos": 6,
+    "usos": 162,
+    "limite": 1200,
+    "taxa": 0.43416666666666665,
+    "venda": 311513.71,
+    "desconto": 15682.1,
+    "ticket": 1928.76,
+    "usos_7d": 29,
+    "filiais_com_uso": 38
+   },
+   {
+    "grupo": "Influenciador",
+    "cupons": 6,
+    "ativos": 5,
+    "usos": 75,
+    "limite": 800,
+    "taxa": 0.30375,
+    "venda": 126432.9,
+    "desconto": 7314.3,
+    "ticket": 1678.39,
+    "usos_7d": 14,
+    "filiais_com_uso": 24
+   }
+  ],
+  "cupons": [
+   {
+    "grupo": "Rádio",
+    "cupom": "ONDA10",
+    "cidade": "vila aurora",
+    "usos": 41,
+    "limite": 180,
+    "taxa": 0.7333333333333333,
+    "venda": 78924.78,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "SAFIRA150",
+    "cidade": "mata branca",
+    "usos": 30,
+    "limite": 150,
+    "taxa": 0.6466666666666666,
+    "venda": 57997.75,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "AURORA100",
+    "cidade": "cerro alto",
+    "usos": 62,
+    "limite": 400,
+    "taxa": 0.5025,
+    "venda": 120180.91,
+    "visivel": true
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "AMBAR30",
+    "cidade": "coxilha real",
+    "usos": 13,
+    "limite": 120,
+    "taxa": 0.3416666666666667,
+    "venda": 24514.51,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "NUVEM15",
+    "cidade": "coxilha real",
+    "usos": 12,
+    "limite": 90,
+    "taxa": 0.4222222222222222,
+    "venda": 22720.77,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "OLIVA15",
+    "cidade": "cachoeira do norte",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "ESTRELA200",
+    "cidade": "serra azul",
+    "usos": 4,
+    "limite": 60,
+    "taxa": 0.2,
+    "venda": 7174.98,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "RUBI50",
+    "cidade": "estância nova",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "OLIVA100",
+    "usos": 27,
+    "limite": 200,
+    "taxa": 0.44,
+    "venda": 45786.4,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "OLIVA150",
+    "usos": 19,
+    "limite": 150,
+    "taxa": 0.4066666666666667,
+    "venda": 31738.3,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "HORIZONTE25",
+    "usos": 17,
+    "limite": 150,
+    "taxa": 0.36666666666666664,
+    "venda": 28616.5,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "CAMPINA200",
+    "usos": 9,
+    "limite": 100,
+    "taxa": 0.3,
+    "venda": 15609.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "AMBAR20",
+    "usos": 3,
+    "limite": 100,
+    "taxa": 0.09,
+    "venda": 4682.7,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "AURORA15",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   }
+  ],
+  "filiais": [
+   {
+    "grupo": "Rádio",
+    "pos": 1,
+    "filial": "101 - Alvorada Nova",
+    "usos": 13,
+    "venda": 23800.5,
+    "cupom_top": "AURORA100",
+    "n_cupons": 3
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 2,
+    "filial": "108 - Lagoa Dourada",
+    "usos": 11,
+    "venda": 21478.5,
+    "cupom_top": "ONDA10",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 3,
+    "filial": "105 - Monte Claro",
+    "usos": 9,
+    "venda": 16834.5,
+    "cupom_top": "AURORA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 4,
+    "filial": "106 - Rio Manso",
+    "usos": 7,
+    "venda": 12771.0,
+    "cupom_top": "AMBAR30",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 5,
+    "filial": "109 - Bela Vista do Sul",
+    "usos": 6,
+    "venda": 10449.0,
+    "cupom_top": "NUVEM15",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 1,
+    "filial": "102 - Campo Verde",
+    "usos": 6,
+    "venda": 11029.5,
+    "cupom_top": "OLIVA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 2,
+    "filial": "103 - Vila Aurora",
+    "usos": 5,
+    "venda": 8707.5,
+    "cupom_top": "HORIZONTE25",
+    "n_cupons": 3
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 3,
+    "filial": "107 - Serra Azul",
+    "usos": 4,
+    "venda": 6966.0,
+    "cupom_top": "OLIVA150",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 4,
+    "filial": "104 - Porto Sereno",
+    "usos": 3,
+    "venda": 5224.5,
+    "cupom_top": "OLIVA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 5,
+    "filial": "101 - Alvorada Nova",
+    "usos": 2,
+    "venda": 4644.0,
+    "cupom_top": "CAMPINA200",
+    "n_cupons": 1
+   }
+  ],
+  "sincronizado_em": "2026-10-15T13:04:00Z"
+ },
+ "limites": {
+  "BRISA100": {
+   "limite": null,
+   "base": 8680,
+   "usos": 326
+  },
+  "MARE200": {
+   "limite": null,
+   "base": 2945,
+   "usos": 206
+  },
+  "VALE15": {
+   "limite": null,
+   "base": 1302,
+   "usos": 160
+  },
+  "VENTO25": {
+   "limite": 3000,
+   "base": null,
+   "usos": 277
+  }
+ },
+ "vigencia": {
+  "OLIVA100": "ativo",
+  "RUBI150": "ativo",
+  "OPALA15": "ativo",
+  "CAMPINA200": "ativo",
+  "OLIVA150": "ativo",
+  "SAFIRA20": "encerrado",
+  "NUVEM15": "ativo",
+  "AMBAR30": "encerrado",
+  "AURORA100": "ativo",
+  "OLIVA15": "ativo",
+  "RUBI50": "ativo",
+  "ESTRELA200": "ativo",
+  "BRISA200": "ativo",
+  "SAFIRA150": "ativo",
+  "ONDA100": "ativo",
+  "HORIZONTE25": "ativo",
+  "CEDRO50": "ativo",
+  "OURO20": "ativo",
+  "TURQUESA5": "ativo",
+  "PRATA5": "ativo",
+  "ARCO20": "ativo",
+  "ILHA30": "ativo",
+  "JADE200": "ativo",
+  "MARE5": "ativo",
+  "ONDA10": "ativo",
+  "SAFIRA5": "ativo",
+  "AMBAR20": "encerrado",
+  "AURORA15": "ativo",
+  "TURQUESA20": "ativo",
+  "HORIZONTE50": "ativo"
+ }
+}

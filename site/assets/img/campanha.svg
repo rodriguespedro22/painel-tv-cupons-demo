@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" role="img" aria-label="Campanha Aurora: R$ 10 milhões em cupons">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#14532d"/><stop offset="1" stop-color="#1b8a2f"/></linearGradient></defs>
+<rect width="600" height="220" rx="24" fill="url(#g)"/><circle cx="500" cy="60" r="70" fill="#f4b400" opacity=".9"/>
+<text x="36" y="95" font-family="Gantari, Arial, sans-serif" font-size="44" font-weight="800" fill="#fff">Campanha Aurora</text>
+<text x="36" y="150" font-family="Gantari, Arial, sans-serif" font-size="30" font-weight="600" fill="#e9f7ec">R$ 10 milhões em cupons</text></svg>

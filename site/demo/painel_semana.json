@@ -1,0 +1,620 @@
+{
+ "kpis": {
+  "itens": 0,
+  "venda": 0.0,
+  "cupons": 0,
+  "lb_pct": null,
+  "vendas": 0,
+  "desconto": 0.0,
+  "pct_venda": null,
+  "pct_vendas": null,
+  "ticket_com": null,
+  "ticket_sem": null,
+  "venda_total": null,
+  "desconto_pct": null,
+  "vendas_total": null
+ },
+ "novos": [],
+ "serie": [],
+ "setor": [],
+ "tipos": [],
+ "escopo": "campanha",
+ "versao": 6,
+ "periodo": {
+  "fim": "2026-09-27",
+  "dias": 0,
+  "codigo": "semana",
+  "inicio": "2026-09-28",
+  "rotulo": "Esta semana"
+ },
+ "ranking": [],
+ "campanha": {
+  "tv_periodo": "campanha",
+  "novos_entram": "sim",
+  "campanha_nome": "Campanha Aurora · R$ 10 milhões em cupons",
+  "campanha_tipos": "",
+  "campanha_inicio": "2026-07-01",
+  "segundos_por_tela": "30"
+ },
+ "regional": [],
+ "ultimo_dia": {
+  "data": "2026-09-27",
+  "venda": 0.0,
+  "vendas": 0,
+  "desconto": 0.0,
+  "venda_total": 0.0,
+  "vendas_total": 0
+ },
+ "atualizacao": {
+  "dados_ate": "2026-09-27",
+  "ultima_carga": {
+   "fim": "2026-10-02T18:59:59.882514+00:00",
+   "linhas": 6829,
+   "status": "ok",
+   "origem_carga": "carga-auto",
+   "dataset_atualizado_em": "2026-10-02T18:55:59.882514+00:00"
+  }
+ },
+ "departamento": [],
+ "filiais": [],
+ "clientes": {
+  "totais": {
+   "venda_total": 0.0,
+   "vendas_total": 0,
+   "cupons_vendas": 0
+  },
+  "grupos": [
+   {
+    "objetivo": "primeira_compra",
+    "nome": "Primeira compra",
+    "kpis": {
+     "vendas": 10,
+     "venda": 19012.67,
+     "desconto": 1368.91,
+     "ticket": 1978.43,
+     "desconto_pct": 0.072
+    },
+    "cupons": [
+     {
+      "cupom": "RUBI150",
+      "vendas": 5,
+      "venda": 11182.75,
+      "ticket": 2254.59,
+      "usos_total": 586,
+      "base": 1860,
+      "conv": 0.315
+     },
+     {
+      "cupom": "ARCO20",
+      "vendas": 3,
+      "venda": 4686.18,
+      "ticket": 1679.64,
+      "usos_total": 342,
+      "base": 1612,
+      "conv": 0.21192307692307694
+     },
+     {
+      "cupom": "OURO20",
+      "vendas": 2,
+      "venda": 2107.43,
+      "ticket": 1359.63,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "SAFIRA20",
+      "vendas": 0,
+      "venda": 1036.3,
+      "ticket": 3342.9,
+      "usos_total": 24,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "ILHA30",
+      "vendas": 0,
+      "venda": 0.0,
+      "ticket": null,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     }
+    ],
+    "departamentos": [
+     {
+      "departamento": "Móveis",
+      "vendas": 3,
+      "venda": 5869.5
+     },
+     {
+      "departamento": "Eletro",
+      "vendas": 2,
+      "venda": 4472.0
+     },
+     {
+      "departamento": "Moda Feminina",
+      "vendas": 2,
+      "venda": 2655.25
+     },
+     {
+      "departamento": "Tecnologia",
+      "vendas": 1,
+      "venda": 2236.0
+     },
+     {
+      "departamento": "Cama, mesa e banho",
+      "vendas": 1,
+      "venda": 1565.2
+     }
+    ],
+    "filiais": [
+     {
+      "pos": 1,
+      "filial": "101 - Alvorada Nova",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "RUBI150",
+      "n_cupons": 3
+     },
+     {
+      "pos": 2,
+      "filial": "102 - Campo Verde",
+      "usos": 1,
+      "venda": 1272.8,
+      "cupom_top": "ARCO20",
+      "n_cupons": 2
+     },
+     {
+      "pos": 3,
+      "filial": "103 - Vila Aurora",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "RUBI150",
+      "n_cupons": 2
+     },
+     {
+      "pos": 4,
+      "filial": "104 - Porto Sereno",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "RUBI150",
+      "n_cupons": 1
+     },
+     {
+      "pos": 5,
+      "filial": "105 - Monte Claro",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "SAFIRA20",
+      "n_cupons": 2
+     }
+    ],
+    "n_filiais": 45,
+    "ultimo_dia": {
+     "data": "2026-09-27",
+     "vendas": 0
+    }
+   },
+   {
+    "objetivo": "recuperacao",
+    "nome": "Recuperação",
+    "kpis": {
+     "vendas": 7,
+     "venda": 13980.59,
+     "desconto": 1006.6,
+     "ticket": 2147.56,
+     "desconto_pct": 0.072
+    },
+    "cupons": [
+     {
+      "cupom": "TURQUESA20",
+      "vendas": 4,
+      "venda": 8105.5,
+      "ticket": 2011.29,
+      "usos_total": 512,
+      "base": 1240,
+      "conv": 0.4125
+     },
+     {
+      "cupom": "MARE5",
+      "vendas": 2,
+      "venda": 5109.69,
+      "ticket": 2747.15,
+      "usos_total": 267,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "JADE200",
+      "vendas": 1,
+      "venda": 765.4,
+      "ticket": 1234.52,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     }
+    ],
+    "departamentos": [
+     {
+      "departamento": "Eletro",
+      "vendas": 2,
+      "venda": 4192.5
+     },
+     {
+      "departamento": "Móveis",
+      "vendas": 2,
+      "venda": 3354.0
+     },
+     {
+      "departamento": "Moda Masculina",
+      "vendas": 1,
+      "venda": 1956.5
+     },
+     {
+      "departamento": "Tecnologia",
+      "vendas": 1,
+      "venda": 1118.0
+     },
+     {
+      "departamento": "Calçados",
+      "vendas": 0,
+      "venda": 698.75
+     }
+    ],
+    "filiais": [
+     {
+      "pos": 1,
+      "filial": "106 - Rio Manso",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 2
+     },
+     {
+      "pos": 2,
+      "filial": "101 - Alvorada Nova",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "MARE5",
+      "n_cupons": 2
+     },
+     {
+      "pos": 3,
+      "filial": "107 - Serra Azul",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 1
+     },
+     {
+      "pos": 4,
+      "filial": "108 - Lagoa Dourada",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 3
+     },
+     {
+      "pos": 5,
+      "filial": "109 - Bela Vista do Sul",
+      "usos": 0,
+      "venda": 636.4,
+      "cupom_top": "JADE200",
+      "n_cupons": 1
+     }
+    ],
+    "n_filiais": 45,
+    "ultimo_dia": {
+     "data": "2026-09-27",
+     "vendas": 0
+    }
+   }
+  ]
+ },
+ "midia": {
+  "grupos": [
+   {
+    "grupo": "Rádio",
+    "cupons": 8,
+    "ativos": 6,
+    "usos": 162,
+    "limite": 1200,
+    "taxa": 0.43416666666666665,
+    "venda": 311513.71,
+    "desconto": 15682.1,
+    "ticket": 1928.76,
+    "usos_7d": 29,
+    "filiais_com_uso": 38
+   },
+   {
+    "grupo": "Influenciador",
+    "cupons": 6,
+    "ativos": 5,
+    "usos": 75,
+    "limite": 800,
+    "taxa": 0.30375,
+    "venda": 126432.9,
+    "desconto": 7314.3,
+    "ticket": 1678.39,
+    "usos_7d": 14,
+    "filiais_com_uso": 24
+   }
+  ],
+  "cupons": [
+   {
+    "grupo": "Rádio",
+    "cupom": "ONDA10",
+    "cidade": "vila aurora",
+    "usos": 41,
+    "limite": 180,
+    "taxa": 0.7333333333333333,
+    "venda": 78924.78,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "SAFIRA150",
+    "cidade": "mata branca",
+    "usos": 30,
+    "limite": 150,
+    "taxa": 0.6466666666666666,
+    "venda": 57997.75,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "AURORA100",
+    "cidade": "cerro alto",
+    "usos": 62,
+    "limite": 400,
+    "taxa": 0.5025,
+    "venda": 120180.91,
+    "visivel": true
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "AMBAR30",
+    "cidade": "coxilha real",
+    "usos": 13,
+    "limite": 120,
+    "taxa": 0.3416666666666667,
+    "venda": 24514.51,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "NUVEM15",
+    "cidade": "coxilha real",
+    "usos": 12,
+    "limite": 90,
+    "taxa": 0.4222222222222222,
+    "venda": 22720.77,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "OLIVA15",
+    "cidade": "cachoeira do norte",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "ESTRELA200",
+    "cidade": "serra azul",
+    "usos": 4,
+    "limite": 60,
+    "taxa": 0.2,
+    "venda": 7174.98,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "RUBI50",
+    "cidade": "estância nova",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "OLIVA100",
+    "usos": 27,
+    "limite": 200,
+    "taxa": 0.44,
+    "venda": 45786.4,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "OLIVA150",
+    "usos": 19,
+    "limite": 150,
+    "taxa": 0.4066666666666667,
+    "venda": 31738.3,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "HORIZONTE25",
+    "usos": 17,
+    "limite": 150,
+    "taxa": 0.36666666666666664,
+    "venda": 28616.5,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "CAMPINA200",
+    "usos": 9,
+    "limite": 100,
+    "taxa": 0.3,
+    "venda": 15609.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "AMBAR20",
+    "usos": 3,
+    "limite": 100,
+    "taxa": 0.09,
+    "venda": 4682.7,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "AURORA15",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   }
+  ],
+  "filiais": [
+   {
+    "grupo": "Rádio",
+    "pos": 1,
+    "filial": "101 - Alvorada Nova",
+    "usos": 13,
+    "venda": 23800.5,
+    "cupom_top": "AURORA100",
+    "n_cupons": 3
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 2,
+    "filial": "108 - Lagoa Dourada",
+    "usos": 11,
+    "venda": 21478.5,
+    "cupom_top": "ONDA10",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 3,
+    "filial": "105 - Monte Claro",
+    "usos": 9,
+    "venda": 16834.5,
+    "cupom_top": "AURORA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 4,
+    "filial": "106 - Rio Manso",
+    "usos": 7,
+    "venda": 12771.0,
+    "cupom_top": "AMBAR30",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 5,
+    "filial": "109 - Bela Vista do Sul",
+    "usos": 6,
+    "venda": 10449.0,
+    "cupom_top": "NUVEM15",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 1,
+    "filial": "102 - Campo Verde",
+    "usos": 6,
+    "venda": 11029.5,
+    "cupom_top": "OLIVA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 2,
+    "filial": "103 - Vila Aurora",
+    "usos": 5,
+    "venda": 8707.5,
+    "cupom_top": "HORIZONTE25",
+    "n_cupons": 3
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 3,
+    "filial": "107 - Serra Azul",
+    "usos": 4,
+    "venda": 6966.0,
+    "cupom_top": "OLIVA150",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 4,
+    "filial": "104 - Porto Sereno",
+    "usos": 3,
+    "venda": 5224.5,
+    "cupom_top": "OLIVA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 5,
+    "filial": "101 - Alvorada Nova",
+    "usos": 2,
+    "venda": 4644.0,
+    "cupom_top": "CAMPINA200",
+    "n_cupons": 1
+   }
+  ],
+  "sincronizado_em": "2026-10-15T13:04:00Z"
+ },
+ "limites": {
+  "BRISA100": {
+   "limite": null,
+   "base": 8680,
+   "usos": 326
+  },
+  "MARE200": {
+   "limite": null,
+   "base": 2945,
+   "usos": 206
+  },
+  "VALE15": {
+   "limite": null,
+   "base": 1302,
+   "usos": 160
+  },
+  "VENTO25": {
+   "limite": 3000,
+   "base": null,
+   "usos": 277
+  }
+ },
+ "vigencia": {
+  "OLIVA100": "ativo",
+  "RUBI150": "ativo",
+  "CAMPINA200": "ativo",
+  "OLIVA150": "ativo",
+  "SAFIRA20": "encerrado",
+  "NUVEM15": "ativo",
+  "AMBAR30": "encerrado",
+  "AURORA100": "ativo",
+  "OLIVA15": "ativo",
+  "RUBI50": "ativo",
+  "ESTRELA200": "ativo",
+  "SAFIRA150": "ativo",
+  "HORIZONTE25": "ativo",
+  "OURO20": "ativo",
+  "ARCO20": "ativo",
+  "ILHA30": "ativo",
+  "JADE200": "ativo",
+  "MARE5": "ativo",
+  "ONDA10": "ativo",
+  "AMBAR20": "encerrado",
+  "AURORA15": "ativo",
+  "TURQUESA20": "ativo"
+ }
+}

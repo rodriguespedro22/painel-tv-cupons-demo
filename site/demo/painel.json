@@ -1,0 +1,1538 @@
+{
+ "kpis": {
+  "itens": 6892,
+  "venda": 11883407.96,
+  "cupons": 23,
+  "lb_pct": 0.26693581939647,
+  "vendas": 4592,
+  "desconto": 1009602.84,
+  "pct_venda": 0.05971615789394843,
+  "pct_vendas": 0.024326556888145136,
+  "ticket_com": 3044.51,
+  "ticket_sem": 1004.58,
+  "venda_total": 198998200.44,
+  "desconto_pct": 0.07830621220136241,
+  "vendas_total": 188766
+ },
+ "novos": [
+  {
+   "cupom": "OPALA40",
+   "venda": 24753.56,
+   "vendas": 10,
+   "primeiro_uso": "2026-09-25"
+  },
+  {
+   "cupom": "PRATA5",
+   "venda": 50992.9,
+   "vendas": 20,
+   "primeiro_uso": "2026-09-22"
+  }
+ ],
+ "ontem": {
+  "venda": 175558.34,
+  "vendas": 68,
+  "desconto": 14953.53
+ },
+ "serie": [
+  {
+   "data": "2026-07-01",
+   "venda": 107132.0,
+   "vendas": 42,
+   "desconto": 8872.8
+  },
+  {
+   "data": "2026-07-02",
+   "venda": 100798.94,
+   "vendas": 39,
+   "desconto": 8373.81
+  },
+  {
+   "data": "2026-07-03",
+   "venda": 116335.45,
+   "vendas": 44,
+   "desconto": 9578.26
+  },
+  {
+   "data": "2026-07-04",
+   "venda": 108419.5,
+   "vendas": 43,
+   "desconto": 9241.18
+  },
+  {
+   "data": "2026-07-05",
+   "venda": 116513.26,
+   "vendas": 45,
+   "desconto": 9801.98
+  },
+  {
+   "data": "2026-07-06",
+   "venda": 118106.94,
+   "vendas": 46,
+   "desconto": 10104.77
+  },
+  {
+   "data": "2026-07-07",
+   "venda": 113788.04,
+   "vendas": 43,
+   "desconto": 9677.13
+  },
+  {
+   "data": "2026-07-08",
+   "venda": 119332.31,
+   "vendas": 45,
+   "desconto": 10461.22
+  },
+  {
+   "data": "2026-07-09",
+   "venda": 113255.09,
+   "vendas": 44,
+   "desconto": 9400.26
+  },
+  {
+   "data": "2026-07-10",
+   "venda": 114678.66,
+   "vendas": 44,
+   "desconto": 9670.08
+  },
+  {
+   "data": "2026-07-11",
+   "venda": 114352.73,
+   "vendas": 44,
+   "desconto": 9537.26
+  },
+  {
+   "data": "2026-07-12",
+   "venda": 128089.14,
+   "vendas": 49,
+   "desconto": 10744.28
+  },
+  {
+   "data": "2026-07-13",
+   "venda": 106269.94,
+   "vendas": 41,
+   "desconto": 9179.74
+  },
+  {
+   "data": "2026-07-14",
+   "venda": 124527.16,
+   "vendas": 48,
+   "desconto": 10545.43
+  },
+  {
+   "data": "2026-07-15",
+   "venda": 103275.89,
+   "vendas": 40,
+   "desconto": 8979.73
+  },
+  {
+   "data": "2026-07-16",
+   "venda": 117069.91,
+   "vendas": 46,
+   "desconto": 10506.55
+  },
+  {
+   "data": "2026-07-17",
+   "venda": 106094.04,
+   "vendas": 41,
+   "desconto": 8839.73
+  },
+  {
+   "data": "2026-07-18",
+   "venda": 121956.43,
+   "vendas": 47,
+   "desconto": 10384.61
+  },
+  {
+   "data": "2026-07-19",
+   "venda": 122313.13,
+   "vendas": 48,
+   "desconto": 10554.89
+  },
+  {
+   "data": "2026-07-20",
+   "venda": 112304.19,
+   "vendas": 43,
+   "desconto": 9723.72
+  },
+  {
+   "data": "2026-07-21",
+   "venda": 114927.49,
+   "vendas": 45,
+   "desconto": 9529.53
+  },
+  {
+   "data": "2026-07-22",
+   "venda": 125901.31,
+   "vendas": 48,
+   "desconto": 10954.92
+  },
+  {
+   "data": "2026-07-23",
+   "venda": 100653.96,
+   "vendas": 38,
+   "desconto": 8353.92
+  },
+  {
+   "data": "2026-07-24",
+   "venda": 117845.86,
+   "vendas": 46,
+   "desconto": 10108.86
+  },
+  {
+   "data": "2026-07-25",
+   "venda": 123070.49,
+   "vendas": 48,
+   "desconto": 10338.58
+  },
+  {
+   "data": "2026-07-26",
+   "venda": 111855.17,
+   "vendas": 44,
+   "desconto": 9573.45
+  },
+  {
+   "data": "2026-07-27",
+   "venda": 110166.68,
+   "vendas": 43,
+   "desconto": 9177.1
+  },
+  {
+   "data": "2026-07-28",
+   "venda": 107434.49,
+   "vendas": 41,
+   "desconto": 9165.02
+  },
+  {
+   "data": "2026-07-29",
+   "venda": 126107.88,
+   "vendas": 48,
+   "desconto": 10779.2
+  },
+  {
+   "data": "2026-07-30",
+   "venda": 117868.94,
+   "vendas": 45,
+   "desconto": 9698.87
+  },
+  {
+   "data": "2026-07-31",
+   "venda": 108596.25,
+   "vendas": 42,
+   "desconto": 9238.24
+  },
+  {
+   "data": "2026-08-01",
+   "venda": 118272.63,
+   "vendas": 47,
+   "desconto": 10099.47
+  },
+  {
+   "data": "2026-08-02",
+   "venda": 117402.75,
+   "vendas": 45,
+   "desconto": 9949.2
+  },
+  {
+   "data": "2026-08-03",
+   "venda": 121121.56,
+   "vendas": 47,
+   "desconto": 10539.79
+  },
+  {
+   "data": "2026-08-04",
+   "venda": 129841.67,
+   "vendas": 50,
+   "desconto": 10900.75
+  },
+  {
+   "data": "2026-08-05",
+   "venda": 116834.26,
+   "vendas": 46,
+   "desconto": 10461.14
+  },
+  {
+   "data": "2026-08-06",
+   "venda": 120354.66,
+   "vendas": 46,
+   "desconto": 10124.17
+  },
+  {
+   "data": "2026-08-07",
+   "venda": 108835.13,
+   "vendas": 42,
+   "desconto": 9210.85
+  },
+  {
+   "data": "2026-08-08",
+   "venda": 130886.74,
+   "vendas": 52,
+   "desconto": 10887.12
+  },
+  {
+   "data": "2026-08-09",
+   "venda": 126140.15,
+   "vendas": 49,
+   "desconto": 10383.19
+  },
+  {
+   "data": "2026-08-10",
+   "venda": 115979.4,
+   "vendas": 45,
+   "desconto": 10312.79
+  },
+  {
+   "data": "2026-08-11",
+   "venda": 117488.47,
+   "vendas": 45,
+   "desconto": 10254.41
+  },
+  {
+   "data": "2026-08-12",
+   "venda": 121866.91,
+   "vendas": 46,
+   "desconto": 10260.35
+  },
+  {
+   "data": "2026-08-13",
+   "venda": 122381.58,
+   "vendas": 47,
+   "desconto": 10571.34
+  },
+  {
+   "data": "2026-08-14",
+   "venda": 116912.35,
+   "vendas": 45,
+   "desconto": 9826.05
+  },
+  {
+   "data": "2026-08-15",
+   "venda": 124163.82,
+   "vendas": 48,
+   "desconto": 10863.58
+  },
+  {
+   "data": "2026-08-16",
+   "venda": 116115.15,
+   "vendas": 45,
+   "desconto": 9554.35
+  },
+  {
+   "data": "2026-08-17",
+   "venda": 131265.67,
+   "vendas": 50,
+   "desconto": 11375.21
+  },
+  {
+   "data": "2026-08-18",
+   "venda": 117746.29,
+   "vendas": 46,
+   "desconto": 9987.48
+  },
+  {
+   "data": "2026-08-19",
+   "venda": 124204.98,
+   "vendas": 48,
+   "desconto": 10254.04
+  },
+  {
+   "data": "2026-08-20",
+   "venda": 138260.73,
+   "vendas": 52,
+   "desconto": 11147.0
+  },
+  {
+   "data": "2026-08-21",
+   "venda": 133229.51,
+   "vendas": 51,
+   "desconto": 11450.78
+  },
+  {
+   "data": "2026-08-22",
+   "venda": 129363.13,
+   "vendas": 51,
+   "desconto": 11055.24
+  },
+  {
+   "data": "2026-08-23",
+   "venda": 114928.49,
+   "vendas": 44,
+   "desconto": 9840.27
+  },
+  {
+   "data": "2026-08-24",
+   "venda": 129121.59,
+   "vendas": 48,
+   "desconto": 10777.58
+  },
+  {
+   "data": "2026-08-25",
+   "venda": 130764.22,
+   "vendas": 50,
+   "desconto": 10987.02
+  },
+  {
+   "data": "2026-08-26",
+   "venda": 123890.76,
+   "vendas": 49,
+   "desconto": 10451.19
+  },
+  {
+   "data": "2026-08-27",
+   "venda": 125991.44,
+   "vendas": 51,
+   "desconto": 10232.37
+  },
+  {
+   "data": "2026-08-28",
+   "venda": 122466.46,
+   "vendas": 47,
+   "desconto": 10650.47
+  },
+  {
+   "data": "2026-08-29",
+   "venda": 140318.32,
+   "vendas": 55,
+   "desconto": 12026.47
+  },
+  {
+   "data": "2026-08-30",
+   "venda": 119414.43,
+   "vendas": 46,
+   "desconto": 9899.4
+  },
+  {
+   "data": "2026-08-31",
+   "venda": 127631.89,
+   "vendas": 49,
+   "desconto": 10663.61
+  },
+  {
+   "data": "2026-09-01",
+   "venda": 130222.24,
+   "vendas": 51,
+   "desconto": 11151.16
+  },
+  {
+   "data": "2026-09-02",
+   "venda": 129220.45,
+   "vendas": 51,
+   "desconto": 10909.32
+  },
+  {
+   "data": "2026-09-03",
+   "venda": 145495.08,
+   "vendas": 56,
+   "desconto": 11974.6
+  },
+  {
+   "data": "2026-09-04",
+   "venda": 145248.78,
+   "vendas": 57,
+   "desconto": 12379.09
+  },
+  {
+   "data": "2026-09-05",
+   "venda": 150152.43,
+   "vendas": 58,
+   "desconto": 13308.39
+  },
+  {
+   "data": "2026-09-06",
+   "venda": 128383.5,
+   "vendas": 49,
+   "desconto": 10948.77
+  },
+  {
+   "data": "2026-09-07",
+   "venda": 141328.95,
+   "vendas": 54,
+   "desconto": 12184.03
+  },
+  {
+   "data": "2026-09-08",
+   "venda": 140296.9,
+   "vendas": 54,
+   "desconto": 11860.38
+  },
+  {
+   "data": "2026-09-09",
+   "venda": 161091.76,
+   "vendas": 62,
+   "desconto": 13371.83
+  },
+  {
+   "data": "2026-09-10",
+   "venda": 148482.76,
+   "vendas": 58,
+   "desconto": 12035.76
+  },
+  {
+   "data": "2026-09-11",
+   "venda": 150237.17,
+   "vendas": 58,
+   "desconto": 12845.48
+  },
+  {
+   "data": "2026-09-12",
+   "venda": 168575.04,
+   "vendas": 64,
+   "desconto": 14053.86
+  },
+  {
+   "data": "2026-09-13",
+   "venda": 153746.08,
+   "vendas": 60,
+   "desconto": 13292.22
+  },
+  {
+   "data": "2026-09-14",
+   "venda": 174845.27,
+   "vendas": 69,
+   "desconto": 15134.36
+  },
+  {
+   "data": "2026-09-15",
+   "venda": 171439.75,
+   "vendas": 67,
+   "desconto": 14656.85
+  },
+  {
+   "data": "2026-09-16",
+   "venda": 155587.47,
+   "vendas": 61,
+   "desconto": 13243.16
+  },
+  {
+   "data": "2026-09-17",
+   "venda": 180991.12,
+   "vendas": 69,
+   "desconto": 15374.59
+  },
+  {
+   "data": "2026-09-18",
+   "venda": 174467.79,
+   "vendas": 68,
+   "desconto": 15008.87
+  },
+  {
+   "data": "2026-09-19",
+   "venda": 201569.97,
+   "vendas": 78,
+   "desconto": 16782.82
+  },
+  {
+   "data": "2026-09-20",
+   "venda": 167014.7,
+   "vendas": 65,
+   "desconto": 14769.72
+  },
+  {
+   "data": "2026-09-21",
+   "venda": 201420.37,
+   "vendas": 77,
+   "desconto": 17524.27
+  },
+  {
+   "data": "2026-09-22",
+   "venda": 205441.26,
+   "vendas": 78,
+   "desconto": 17361.62
+  },
+  {
+   "data": "2026-09-23",
+   "venda": 205356.68,
+   "vendas": 79,
+   "desconto": 17450.39
+  },
+  {
+   "data": "2026-09-24",
+   "venda": 192357.11,
+   "vendas": 75,
+   "desconto": 16528.41
+  },
+  {
+   "data": "2026-09-25",
+   "venda": 204097.43,
+   "vendas": 79,
+   "desconto": 17399.37
+  },
+  {
+   "data": "2026-09-26",
+   "venda": 198543.16,
+   "vendas": 77,
+   "desconto": 17008.2
+  },
+  {
+   "data": "2026-09-27",
+   "venda": 175558.34,
+   "vendas": 68,
+   "desconto": 14953.53
+  }
+ ],
+ "origem": [
+  {
+   "venda": 6353338.61,
+   "origem": "Atendimento",
+   "vendas": 2459,
+   "penetracao": 0.01714307944343346
+  },
+  {
+   "venda": 5530069.35,
+   "origem": "PDV",
+   "vendas": 2133,
+   "penetracao": 0.04705632945585349
+  }
+ ],
+ "periodo": {
+  "fim": "2026-09-27",
+  "inicio": "2026-07-01"
+ },
+ "ranking": [
+  {
+   "cupom": "BRISA100",
+   "venda": 1035674.11,
+   "lb_pct": 0.26574533200797784,
+   "ticket": 3053.96,
+   "vendas": 399,
+   "desconto": 87725.17,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07808904096879085,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "VENTO25",
+   "venda": 916350.94,
+   "lb_pct": 0.2696272385622069,
+   "ticket": 3029.28,
+   "vendas": 356,
+   "desconto": 77688.53,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07815437139718973,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "BONUS100",
+   "venda": 827514.57,
+   "lb_pct": 0.266052446379317,
+   "ticket": 3040.15,
+   "vendas": 320,
+   "desconto": 70722.78,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07873506862315009,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "MARE200",
+   "venda": 784129.78,
+   "lb_pct": 0.26690171577446314,
+   "ticket": 3061.55,
+   "vendas": 301,
+   "desconto": 66023.17,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07766034522413534,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "LAGOA20",
+   "venda": 767183.03,
+   "lb_pct": 0.2654432762003807,
+   "ticket": 3017.11,
+   "vendas": 299,
+   "desconto": 65502.77,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07866444833763951,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "FAROLETE30",
+   "venda": 760428.31,
+   "lb_pct": 0.26895687619753755,
+   "ticket": 3070.08,
+   "vendas": 291,
+   "desconto": 65178.58,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07894626796423153,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "BONUS10",
+   "venda": 739428.39,
+   "lb_pct": 0.26624099948757496,
+   "ticket": 3060.17,
+   "vendas": 284,
+   "desconto": 63110.19,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07863820376765836,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "VALE15",
+   "venda": 732540.84,
+   "lb_pct": 0.265678022575373,
+   "ticket": 3044.95,
+   "vendas": 283,
+   "desconto": 61891.37,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07790642637627357,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "ONDA200",
+   "venda": 720154.39,
+   "lb_pct": 0.2681937237876893,
+   "ticket": 3063.94,
+   "vendas": 277,
+   "desconto": 61561.83,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07875214289385228,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "HORIZONTE30",
+   "venda": 719602.14,
+   "lb_pct": 0.2666778136758525,
+   "ticket": 3041.13,
+   "vendas": 278,
+   "desconto": 61061.76,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07821773586076917,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "TRILHA25",
+   "venda": 705719.47,
+   "lb_pct": 0.2662960596481651,
+   "ticket": 3057.37,
+   "vendas": 272,
+   "desconto": 60160.85,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07855124488928164,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "FAROLETE5",
+   "venda": 704915.3,
+   "lb_pct": 0.2672072073482588,
+   "ticket": 3026.24,
+   "vendas": 274,
+   "desconto": 59856.28,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07826687253981647,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "FAROLETE100",
+   "venda": 702238.0,
+   "lb_pct": 0.26689271094954725,
+   "ticket": 3007.95,
+   "vendas": 275,
+   "desconto": 60148.36,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07889485518297992,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "ILHA40",
+   "venda": 692695.03,
+   "lb_pct": 0.26733549619853564,
+   "ticket": 3039.1,
+   "vendas": 268,
+   "desconto": 58502.1,
+   "dias_ativos": 89,
+   "desconto_pct": 0.07787849507919732,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "cupom": "BRISA200",
+   "venda": 225622.11,
+   "lb_pct": 0.2642776968201135,
+   "ticket": 3069.0,
+   "vendas": 86,
+   "desconto": 18634.39,
+   "dias_ativos": 27,
+   "desconto_pct": 0.076290252651247,
+   "primeiro_uso": "2026-09-01"
+  },
+  {
+   "cupom": "CEDRO50",
+   "venda": 187878.36,
+   "lb_pct": 0.2676119745096686,
+   "ticket": 3060.13,
+   "vendas": 72,
+   "desconto": 16079.91,
+   "dias_ativos": 24,
+   "desconto_pct": 0.07883921450167236,
+   "primeiro_uso": "2026-09-04"
+  },
+  {
+   "cupom": "ONDA100",
+   "venda": 163094.42,
+   "lb_pct": 0.2669577636496037,
+   "ticket": 3019.29,
+   "vendas": 64,
+   "desconto": 13942.72,
+   "dias_ativos": 21,
+   "desconto_pct": 0.07875590515723441,
+   "primeiro_uso": "2026-09-07"
+  },
+  {
+   "cupom": "SAFIRA5",
+   "venda": 140498.44,
+   "lb_pct": 0.2663313581337118,
+   "ticket": 3046.86,
+   "vendas": 54,
+   "desconto": 11991.74,
+   "dias_ativos": 18,
+   "desconto_pct": 0.07863940477173396,
+   "primeiro_uso": "2026-09-10"
+  },
+  {
+   "cupom": "OPALA15",
+   "venda": 117956.15,
+   "lb_pct": 0.26947320851488044,
+   "ticket": 3087.25,
+   "vendas": 45,
+   "desconto": 9920.62,
+   "dias_ativos": 15,
+   "desconto_pct": 0.07757953645917522,
+   "primeiro_uso": "2026-09-13"
+  },
+  {
+   "cupom": "HORIZONTE50",
+   "venda": 96046.85,
+   "lb_pct": 0.2633913418311914,
+   "ticket": 3063.06,
+   "vendas": 37,
+   "desconto": 7981.42,
+   "dias_ativos": 12,
+   "desconto_pct": 0.07672355963415456,
+   "primeiro_uso": "2026-09-16"
+  },
+  {
+   "cupom": "TURQUESA5",
+   "venda": 67990.88,
+   "lb_pct": 0.26790710921295424,
+   "ticket": 3071.78,
+   "vendas": 26,
+   "desconto": 5666.31,
+   "dias_ativos": 9,
+   "desconto_pct": 0.07692816034766528,
+   "primeiro_uso": "2026-09-19"
+  },
+  {
+   "cupom": "PRATA5",
+   "venda": 50992.9,
+   "lb_pct": 0.26936034933221276,
+   "ticket": 2932.14,
+   "vendas": 20,
+   "desconto": 4266.93,
+   "dias_ativos": 6,
+   "desconto_pct": 0.07721574215731963,
+   "primeiro_uso": "2026-09-22"
+  },
+  {
+   "cupom": "OPALA40",
+   "venda": 24753.56,
+   "lb_pct": 0.2777078424753314,
+   "ticket": 3030.37,
+   "vendas": 10,
+   "desconto": 1985.04,
+   "dias_ativos": 3,
+   "desconto_pct": 0.07423885704728639,
+   "primeiro_uso": "2026-09-25"
+  }
+ ],
+ "campanha": {
+  "campanha_nome": "Campanha Aurora · R$ 10 milhões em cupons",
+  "campanha_inicio": "2026-07-01"
+ },
+ "regional": [
+  {
+   "venda": 1574339.45,
+   "vendas": 607,
+   "desconto": 133769.52,
+   "regional": "CAPITAL",
+   "penetracao": 0.01343336856989882
+  },
+  {
+   "venda": 1425416.12,
+   "vendas": 553,
+   "desconto": 122023.05,
+   "regional": "COSTA AZUL",
+   "penetracao": 0.016854622968795786
+  },
+  {
+   "venda": 1326707.06,
+   "vendas": 514,
+   "desconto": 112466.06,
+   "regional": "CAMPOS DO SUL",
+   "penetracao": 0.02271232876712329
+  },
+  {
+   "venda": 1321643.39,
+   "vendas": 515,
+   "desconto": 112131.5,
+   "regional": "SERRA ALTA",
+   "penetracao": 0.022513791561055613
+  },
+  {
+   "venda": 1277536.26,
+   "vendas": 491,
+   "desconto": 108178.9,
+   "regional": "COSTA DOURADA",
+   "penetracao": 0.024105742435547976
+  },
+  {
+   "venda": 1261253.83,
+   "vendas": 486,
+   "desconto": 106687.14,
+   "regional": "VALE VERDE",
+   "penetracao": 0.035907998626845176
+  },
+  {
+   "venda": 1258873.16,
+   "vendas": 486,
+   "desconto": 107166.98,
+   "regional": "PLANALTO",
+   "penetracao": 0.05324498810737343
+  },
+  {
+   "venda": 1223588.36,
+   "vendas": 471,
+   "desconto": 103763.07,
+   "regional": "RIOS",
+   "penetracao": 0.04288295409632432
+  },
+  {
+   "venda": 1214050.33,
+   "vendas": 470,
+   "desconto": 103416.63,
+   "regional": "DIVISA",
+   "penetracao": 0.04157867310276734
+  }
+ ],
+ "atualizacao": {
+  "dados_ate": "2026-09-27",
+  "ultima_carga": {
+   "fim": "2026-09-28T08:02:00-03:00",
+   "linhas": 13744,
+   "status": "ok",
+   "origem_carga": "edge-function"
+  }
+ },
+ "departamento": [
+  {
+   "venda": 3565022.3,
+   "desconto": 302880.91,
+   "departamento": "MOVEIS"
+  },
+  {
+   "venda": 2970851.83,
+   "desconto": 252401.05,
+   "departamento": "ELETRO"
+  },
+  {
+   "venda": 2376681.58,
+   "desconto": 201920.49,
+   "departamento": "MODA"
+  },
+  {
+   "venda": 1544842.96,
+   "desconto": 131248.58,
+   "departamento": "TECNOLOGIA"
+  },
+  {
+   "venda": 831838.53,
+   "desconto": 70671.97,
+   "departamento": "CAMA MESA BANHO"
+  },
+  {
+   "venda": 594170.22,
+   "desconto": 50480.34,
+   "departamento": "UTILIDADES"
+  }
+ ],
+ "clientes": {
+  "totais": {
+   "venda_total": 198998200.44,
+   "vendas_total": 188766,
+   "cupons_vendas": 4592
+  },
+  "grupos": [
+   {
+    "objetivo": "primeira_compra",
+    "nome": "Primeira compra",
+    "kpis": {
+     "vendas": 361,
+     "venda": 706805.02,
+     "desconto": 50889.96,
+     "ticket": 1958.78,
+     "desconto_pct": 0.072
+    },
+    "cupons": [
+     {
+      "cupom": "RUBI150",
+      "vendas": 186,
+      "venda": 420052.12,
+      "ticket": 2254.59,
+      "usos_total": 586,
+      "base": 1860,
+      "conv": 0.315
+     },
+     {
+      "cupom": "ARCO20",
+      "vendas": 110,
+      "venda": 185364.57,
+      "ticket": 1679.64,
+      "usos_total": 342,
+      "base": 1612,
+      "conv": 0.21192307692307694
+     },
+     {
+      "cupom": "OURO20",
+      "vendas": 57,
+      "venda": 77553.42,
+      "ticket": 1359.63,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "SAFIRA20",
+      "vendas": 7,
+      "venda": 23834.9,
+      "ticket": 3342.9,
+      "usos_total": 24,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "ILHA30",
+      "vendas": 0,
+      "venda": 0.0,
+      "ticket": null,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     }
+    ],
+    "departamentos": [
+     {
+      "departamento": "Móveis",
+      "vendas": 126,
+      "venda": 227396.11
+     },
+     {
+      "departamento": "Eletro",
+      "vendas": 96,
+      "venda": 173254.18
+     },
+     {
+      "departamento": "Moda Feminina",
+      "vendas": 57,
+      "venda": 102869.67
+     },
+     {
+      "departamento": "Tecnologia",
+      "vendas": 48,
+      "venda": 86627.09
+     },
+     {
+      "departamento": "Cama, mesa e banho",
+      "vendas": 33,
+      "venda": 60638.96
+     }
+    ],
+    "filiais": [
+     {
+      "pos": 1,
+      "filial": "101 - Alvorada Nova",
+      "usos": 23,
+      "venda": 47093.6,
+      "cupom_top": "RUBI150",
+      "n_cupons": 3
+     },
+     {
+      "pos": 2,
+      "filial": "102 - Campo Verde",
+      "usos": 19,
+      "venda": 38184.0,
+      "cupom_top": "ARCO20",
+      "n_cupons": 2
+     },
+     {
+      "pos": 3,
+      "filial": "103 - Vila Aurora",
+      "usos": 16,
+      "venda": 33092.8,
+      "cupom_top": "RUBI150",
+      "n_cupons": 2
+     },
+     {
+      "pos": 4,
+      "filial": "104 - Porto Sereno",
+      "usos": 13,
+      "venda": 27365.2,
+      "cupom_top": "RUBI150",
+      "n_cupons": 1
+     },
+     {
+      "pos": 5,
+      "filial": "105 - Monte Claro",
+      "usos": 11,
+      "venda": 23546.8,
+      "cupom_top": "SAFIRA20",
+      "n_cupons": 2
+     }
+    ],
+    "n_filiais": 45,
+    "ultimo_dia": {
+     "data": "2026-09-27",
+     "vendas": 5
+    }
+   },
+   {
+    "objetivo": "recuperacao",
+    "nome": "Recuperação",
+    "kpis": {
+     "vendas": 252,
+     "venda": 541286.58,
+     "desconto": 38972.63,
+     "ticket": 2147.71,
+     "desconto_pct": 0.072
+    },
+    "cupons": [
+     {
+      "cupom": "TURQUESA20",
+      "vendas": 156,
+      "venda": 314244.0,
+      "ticket": 2011.29,
+      "usos_total": 512,
+      "base": 1240,
+      "conv": 0.4125
+     },
+     {
+      "cupom": "MARE5",
+      "vendas": 72,
+      "venda": 197574.68,
+      "ticket": 2747.15,
+      "usos_total": 267,
+      "base": null,
+      "conv": null
+     },
+     {
+      "cupom": "JADE200",
+      "vendas": 24,
+      "venda": 29467.9,
+      "ticket": 1234.52,
+      "usos_total": 0,
+      "base": null,
+      "conv": null
+     }
+    ],
+    "departamentos": [
+     {
+      "departamento": "Eletro",
+      "vendas": 90,
+      "venda": 162425.8
+     },
+     {
+      "departamento": "Móveis",
+      "vendas": 72,
+      "venda": 129940.63
+     },
+     {
+      "departamento": "Moda Masculina",
+      "vendas": 42,
+      "venda": 75798.71
+     },
+     {
+      "departamento": "Tecnologia",
+      "vendas": 24,
+      "venda": 43313.54
+     },
+     {
+      "departamento": "Calçados",
+      "vendas": 15,
+      "venda": 27070.96
+     }
+    ],
+    "filiais": [
+     {
+      "pos": 1,
+      "filial": "106 - Rio Manso",
+      "usos": 17,
+      "venda": 35638.4,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 2
+     },
+     {
+      "pos": 2,
+      "filial": "101 - Alvorada Nova",
+      "usos": 15,
+      "venda": 30547.2,
+      "cupom_top": "MARE5",
+      "n_cupons": 2
+     },
+     {
+      "pos": 3,
+      "filial": "107 - Serra Azul",
+      "usos": 13,
+      "venda": 26092.4,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 1
+     },
+     {
+      "pos": 4,
+      "filial": "108 - Lagoa Dourada",
+      "usos": 11,
+      "venda": 22274.0,
+      "cupom_top": "TURQUESA20",
+      "n_cupons": 3
+     },
+     {
+      "pos": 5,
+      "filial": "109 - Bela Vista do Sul",
+      "usos": 9,
+      "venda": 18455.6,
+      "cupom_top": "JADE200",
+      "n_cupons": 1
+     }
+    ],
+    "n_filiais": 45,
+    "ultimo_dia": {
+     "data": "2026-09-27",
+     "vendas": 3
+    }
+   }
+  ]
+ },
+ "midia": {
+  "grupos": [
+   {
+    "grupo": "Rádio",
+    "cupons": 8,
+    "ativos": 6,
+    "usos": 162,
+    "limite": 1200,
+    "taxa": 0.43416666666666665,
+    "venda": 311513.71,
+    "desconto": 15682.1,
+    "ticket": 1928.76,
+    "usos_7d": 29,
+    "filiais_com_uso": 38
+   },
+   {
+    "grupo": "Influenciador",
+    "cupons": 6,
+    "ativos": 5,
+    "usos": 75,
+    "limite": 800,
+    "taxa": 0.30375,
+    "venda": 126432.9,
+    "desconto": 7314.3,
+    "ticket": 1678.39,
+    "usos_7d": 14,
+    "filiais_com_uso": 24
+   }
+  ],
+  "cupons": [
+   {
+    "grupo": "Rádio",
+    "cupom": "ONDA10",
+    "cidade": "vila aurora",
+    "usos": 41,
+    "limite": 180,
+    "taxa": 0.7333333333333333,
+    "venda": 78924.78,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "SAFIRA150",
+    "cidade": "mata branca",
+    "usos": 30,
+    "limite": 150,
+    "taxa": 0.6466666666666666,
+    "venda": 57997.75,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "AURORA100",
+    "cidade": "cerro alto",
+    "usos": 62,
+    "limite": 400,
+    "taxa": 0.5025,
+    "venda": 120180.91,
+    "visivel": true
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "AMBAR30",
+    "cidade": "coxilha real",
+    "usos": 13,
+    "limite": 120,
+    "taxa": 0.3416666666666667,
+    "venda": 24514.51,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "NUVEM15",
+    "cidade": "coxilha real",
+    "usos": 12,
+    "limite": 90,
+    "taxa": 0.4222222222222222,
+    "venda": 22720.77,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "OLIVA15",
+    "cidade": "cachoeira do norte",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "ESTRELA200",
+    "cidade": "serra azul",
+    "usos": 4,
+    "limite": 60,
+    "taxa": 0.2,
+    "venda": 7174.98,
+    "visivel": false
+   },
+   {
+    "grupo": "Rádio",
+    "cupom": "RUBI50",
+    "cidade": "estância nova",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "OLIVA100",
+    "usos": 27,
+    "limite": 200,
+    "taxa": 0.44,
+    "venda": 45786.4,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "OLIVA150",
+    "usos": 19,
+    "limite": 150,
+    "taxa": 0.4066666666666667,
+    "venda": 31738.3,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "HORIZONTE25",
+    "usos": 17,
+    "limite": 150,
+    "taxa": 0.36666666666666664,
+    "venda": 28616.5,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "CAMPINA200",
+    "usos": 9,
+    "limite": 100,
+    "taxa": 0.3,
+    "venda": 15609.0,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "AMBAR20",
+    "usos": 3,
+    "limite": 100,
+    "taxa": 0.09,
+    "venda": 4682.7,
+    "visivel": false
+   },
+   {
+    "grupo": "Influenciador",
+    "cupom": "AURORA15",
+    "usos": 0,
+    "limite": 100,
+    "taxa": 0.0,
+    "venda": 0.0,
+    "visivel": false
+   }
+  ],
+  "filiais": [
+   {
+    "grupo": "Rádio",
+    "pos": 1,
+    "filial": "101 - Alvorada Nova",
+    "usos": 13,
+    "venda": 23800.5,
+    "cupom_top": "AURORA100",
+    "n_cupons": 3
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 2,
+    "filial": "108 - Lagoa Dourada",
+    "usos": 11,
+    "venda": 21478.5,
+    "cupom_top": "ONDA10",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 3,
+    "filial": "105 - Monte Claro",
+    "usos": 9,
+    "venda": 16834.5,
+    "cupom_top": "AURORA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 4,
+    "filial": "106 - Rio Manso",
+    "usos": 7,
+    "venda": 12771.0,
+    "cupom_top": "AMBAR30",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Rádio",
+    "pos": 5,
+    "filial": "109 - Bela Vista do Sul",
+    "usos": 6,
+    "venda": 10449.0,
+    "cupom_top": "NUVEM15",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 1,
+    "filial": "102 - Campo Verde",
+    "usos": 6,
+    "venda": 11029.5,
+    "cupom_top": "OLIVA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 2,
+    "filial": "103 - Vila Aurora",
+    "usos": 5,
+    "venda": 8707.5,
+    "cupom_top": "HORIZONTE25",
+    "n_cupons": 3
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 3,
+    "filial": "107 - Serra Azul",
+    "usos": 4,
+    "venda": 6966.0,
+    "cupom_top": "OLIVA150",
+    "n_cupons": 1
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 4,
+    "filial": "104 - Porto Sereno",
+    "usos": 3,
+    "venda": 5224.5,
+    "cupom_top": "OLIVA100",
+    "n_cupons": 2
+   },
+   {
+    "grupo": "Influenciador",
+    "pos": 5,
+    "filial": "101 - Alvorada Nova",
+    "usos": 2,
+    "venda": 4644.0,
+    "cupom_top": "CAMPINA200",
+    "n_cupons": 1
+   }
+  ],
+  "sincronizado_em": "2026-10-15T13:04:00Z"
+ },
+ "limites": {
+  "BRISA100": {
+   "limite": null,
+   "base": 8680,
+   "usos": 326
+  },
+  "MARE200": {
+   "limite": null,
+   "base": 2945,
+   "usos": 206
+  },
+  "VALE15": {
+   "limite": null,
+   "base": 1302,
+   "usos": 160
+  },
+  "VENTO25": {
+   "limite": 3000,
+   "base": null,
+   "usos": 277
+  }
+ },
+ "vigencia": {
+  "OLIVA100": "ativo",
+  "ILHA40": "ativo",
+  "VENTO25": "ativo",
+  "FAROLETE5": "ativo",
+  "RUBI150": "ativo",
+  "BONUS10": "ativo",
+  "BONUS100": "ativo",
+  "OPALA15": "ativo",
+  "CAMPINA200": "ativo",
+  "OLIVA150": "ativo",
+  "MARE200": "ativo",
+  "FAROLETE30": "encerrado",
+  "BRISA100": "ativo",
+  "LAGOA20": "ativo",
+  "VALE15": "ativo",
+  "HORIZONTE30": "ativo",
+  "SAFIRA20": "encerrado",
+  "NUVEM15": "ativo",
+  "AMBAR30": "encerrado",
+  "OPALA40": "ativo",
+  "AURORA100": "ativo",
+  "OLIVA15": "ativo",
+  "RUBI50": "ativo",
+  "FAROLETE100": "ativo",
+  "ESTRELA200": "ativo",
+  "BRISA200": "ativo",
+  "SAFIRA150": "ativo",
+  "ONDA100": "ativo",
+  "HORIZONTE25": "ativo",
+  "CEDRO50": "ativo",
+  "OURO20": "ativo",
+  "ONDA200": "encerrado",
+  "TURQUESA5": "ativo",
+  "PRATA5": "ativo",
+  "ARCO20": "ativo",
+  "ILHA30": "ativo",
+  "JADE200": "ativo",
+  "TRILHA25": "ativo",
+  "MARE5": "ativo",
+  "ONDA10": "ativo",
+  "SAFIRA5": "ativo",
+  "AMBAR20": "encerrado",
+  "AURORA15": "ativo",
+  "TURQUESA20": "ativo",
+  "HORIZONTE50": "ativo"
+ }
+}

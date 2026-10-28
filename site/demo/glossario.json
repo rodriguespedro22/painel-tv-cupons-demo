@@ -1,0 +1,772 @@
+[
+ {
+  "cupom": "PORTO10",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 3
+ },
+ {
+  "cupom": "ILHA15",
+  "grupo": "CRM",
+  "restricao": "Classificação = Novo",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Não oculto",
+  "situacao": "ativo",
+  "usos": 3
+ },
+ {
+  "cupom": "VALE5",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "encerrado",
+  "usos": 4
+ },
+ {
+  "cupom": "AMBAR10",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "ALVORADA10",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 4
+ },
+ {
+  "cupom": "ALVORADA5",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "encerrado",
+  "usos": 5
+ },
+ {
+  "cupom": "SOL200",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 5
+ },
+ {
+  "cupom": "NUVEM150",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 5
+ },
+ {
+  "cupom": "CEDRO25",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "AMBAR30",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 6
+ },
+ {
+  "cupom": "NUVEM15",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 6
+ },
+ {
+  "cupom": "LILAS50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 7
+ },
+ {
+  "cupom": "ONDA15",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 7
+ },
+ {
+  "cupom": "SAFIRA150",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "SAFIRA15",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 7
+ },
+ {
+  "cupom": "HORIZONTE10",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 8
+ },
+ {
+  "cupom": "MARE100",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 8
+ },
+ {
+  "cupom": "LILAS30",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 8
+ },
+ {
+  "cupom": "NUVEM40",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "OURO5",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 9
+ },
+ {
+  "cupom": "ESTRELA200",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 9
+ },
+ {
+  "cupom": "HORIZONTE40",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 10
+ },
+ {
+  "cupom": "LILAS40",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 10
+ },
+ {
+  "cupom": "ALVORADA50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "ILHA150",
+  "grupo": "CRM",
+  "restricao": "CPF de clientes selecionados",
+  "beneficio": "R$ 150 de desconto",
+  "compra_minima": "Acima de R$ 999",
+  "exibicao": "Não oculto",
+  "situacao": "ativo",
+  "usos": 11
+ },
+ {
+  "cupom": "PORTO100",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 11
+ },
+ {
+  "cupom": "OURO40",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 11
+ },
+ {
+  "cupom": "JADE5",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 11
+ },
+ {
+  "cupom": "HORIZONTE5",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "OPALA100",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 12
+ },
+ {
+  "cupom": "FAROLETE10",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 12
+ },
+ {
+  "cupom": "CORAL40",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 13
+ },
+ {
+  "cupom": "OURO50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 13
+ },
+ {
+  "cupom": "TRILHA30",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "ARCO50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 14
+ },
+ {
+  "cupom": "ONDA50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 14
+ },
+ {
+  "cupom": "CORAL30",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 14
+ },
+ {
+  "cupom": "PRATA50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 15
+ },
+ {
+  "cupom": "CEDRO150",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "CORAL150",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 15
+ },
+ {
+  "cupom": "FAROLETE150",
+  "grupo": "CRM",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 16
+ },
+ {
+  "cupom": "CEDRO20",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 16
+ },
+ {
+  "cupom": "CEDRO200",
+  "grupo": "CRM",
+  "restricao": "CPF de clientes selecionados",
+  "beneficio": "R$ 50 de desconto",
+  "compra_minima": "Acima de R$ 399",
+  "exibicao": "Não oculto",
+  "situacao": "ativo",
+  "usos": 16
+ },
+ {
+  "cupom": "HORIZONTE100",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "NUVEM30",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 17
+ },
+ {
+  "cupom": "AURORA100",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 17
+ },
+ {
+  "cupom": "OURO150",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 17
+ },
+ {
+  "cupom": "PORTO5",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 18
+ },
+ {
+  "cupom": "LAGOA5",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "ESTRELA100",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 18
+ },
+ {
+  "cupom": "SOL25",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 19
+ },
+ {
+  "cupom": "MARE15",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 19
+ },
+ {
+  "cupom": "MARE30",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 19
+ },
+ {
+  "cupom": "SAFIRA30",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "SOL30",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 20
+ },
+ {
+  "cupom": "VENTO40",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 20
+ },
+ {
+  "cupom": "ARCO150",
+  "grupo": "CRM",
+  "restricao": "CPF de clientes selecionados",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Não oculto",
+  "situacao": "ativo",
+  "usos": 20
+ },
+ {
+  "cupom": "VENTO150",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 21
+ },
+ {
+  "cupom": "ESTRELA50",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "CEDRO40",
+  "grupo": "CRM",
+  "restricao": "CPF de gerentes",
+  "beneficio": "R$ 300 de desconto",
+  "compra_minima": "Acima de R$2999",
+  "exibicao": "Não oculto",
+  "situacao": "ativo",
+  "usos": 21
+ },
+ {
+  "cupom": "CAMPINA15",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 22
+ },
+ {
+  "cupom": "FAROLETE40",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 22
+ },
+ {
+  "cupom": "OLIVA15",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 22
+ },
+ {
+  "cupom": "OURO15",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "VENTO10",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 23
+ },
+ {
+  "cupom": "AMBAR15",
+  "grupo": "CRM",
+  "restricao": "CPF de colaboradores",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Não oculto",
+  "situacao": "ativo",
+  "usos": 23
+ },
+ {
+  "cupom": "RUBI50",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 24
+ },
+ {
+  "cupom": "NUVEM25",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 24
+ },
+ {
+  "cupom": "PORTO15",
+  "grupo": "CRM",
+  "restricao": "Classificação = Novo",
+  "beneficio": "10% de desconto, limitado a R$ 200",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "VALE25",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 24
+ },
+ {
+  "cupom": "AMBAR100",
+  "grupo": "Influenciador",
+  "restricao": "Sem restrição",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 25
+ },
+ {
+  "cupom": "ILHA50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 25
+ },
+ {
+  "cupom": "LILAS150",
+  "grupo": "CRM",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 10 de desconto",
+  "compra_minima": "Acima de R$ 129",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 25
+ },
+ {
+  "cupom": "OPALA25",
+  "grupo": "CRM",
+  "restricao": "Produtos de MODA",
+  "beneficio": "10% de desconto, limitado a R$ 70",
+  "compra_minima": "Sem mínimo",
+  "exibicao": "Não oculto",
+  "situacao": "ativo",
+  "usos": 0
+ },
+ {
+  "cupom": "PRATA40",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 26
+ },
+ {
+  "cupom": "ALVORADA100",
+  "grupo": "Rádio",
+  "restricao": "Sem restrição",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 26
+ },
+ {
+  "cupom": "SAFIRA50",
+  "grupo": "Filial (DEMOFL)",
+  "restricao": "Número da filial",
+  "beneficio": "R$ 70 de desconto",
+  "compra_minima": "Acima de R$ 599",
+  "exibicao": "Oculto",
+  "situacao": "ativo",
+  "usos": 27
+ }
+]

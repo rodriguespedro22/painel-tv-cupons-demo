@@ -1,0 +1,8 @@
+/* Fonte Gantari hospedada junto com o site (SIL Open Font License — ver assets/fonts/OFL-Gantari.txt).
+   Subconjunto latin: cobre português (á, ã, ç, é, õ...). */
+@font-face{font-family:"Gantari";font-style:normal;font-weight:400;font-display:swap;src:url("../fonts/gantari-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"Gantari";font-style:normal;font-weight:500;font-display:swap;src:url("../fonts/gantari-latin-500-normal.woff2") format("woff2")}
+@font-face{font-family:"Gantari";font-style:normal;font-weight:600;font-display:swap;src:url("../fonts/gantari-latin-600-normal.woff2") format("woff2")}
+@font-face{font-family:"Gantari";font-style:normal;font-weight:700;font-display:swap;src:url("../fonts/gantari-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:"Gantari";font-style:normal;font-weight:800;font-display:swap;src:url("../fonts/gantari-latin-800-normal.woff2") format("woff2")}
+@font-face{font-family:"Gantari";font-style:normal;font-weight:900;font-display:swap;src:url("../fonts/gantari-latin-900-normal.woff2") format("woff2")}

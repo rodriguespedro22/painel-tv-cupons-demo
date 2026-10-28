@@ -1,0 +1,392 @@
+{
+ "tipos": [
+  {
+   "tipo": "Desconto loja",
+   "venda": 3447857.15,
+   "cupons": 7,
+   "tem_manual": false,
+   "na_campanha": 7
+  },
+  {
+   "tipo": "(sem tipo)",
+   "venda": 1642180.13,
+   "cupons": 4,
+   "tem_manual": null,
+   "na_campanha": 2
+  },
+  {
+   "tipo": "Aniversario",
+   "venda": 1077486.84,
+   "cupons": 2,
+   "tem_manual": false,
+   "na_campanha": 2
+  },
+  {
+   "tipo": "Campanha",
+   "venda": 528932.28,
+   "cupons": 8,
+   "tem_manual": false,
+   "na_campanha": 8
+  },
+  {
+   "tipo": "App",
+   "venda": 372671.63,
+   "cupons": 2,
+   "tem_manual": false,
+   "na_campanha": 1
+  }
+ ],
+ "config": {
+  "tv_periodo": "campanha",
+  "novos_entram": "sim",
+  "campanha_nome": "Campanha Aurora · R$ 10 milhões em cupons",
+  "campanha_tipos": "",
+  "campanha_inicio": "2026-07-01",
+  "segundos_por_tela": "30",
+  "incluir_hoje": "sim"
+ },
+ "cupons": [
+  {
+   "tipo": "App",
+   "cupom": "OPALA40",
+   "venda": 10230.8,
+   "motivo": "excluído manualmente",
+   "vendas": 4,
+   "observacao": "frete grátis não conta",
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": "excluir",
+   "na_campanha": false,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-25"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "PRATA5",
+   "venda": 26697.04,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 10,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-22"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "TURQUESA5",
+   "venda": 30627.3,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 12,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-19"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "HORIZONTE50",
+   "venda": 45637.0,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 18,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-16"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "OPALA15",
+   "venda": 58675.18,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 22,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-13"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "SAFIRA5",
+   "venda": 74597.72,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 29,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-10"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "ONDA100",
+   "venda": 88047.89,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 33,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-07"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "CEDRO50",
+   "venda": 102855.86,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 40,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-04"
+  },
+  {
+   "tipo": "Campanha",
+   "cupom": "BRISA200",
+   "venda": 101794.28,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 39,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-09-01"
+  },
+  {
+   "tipo": "Desconto loja",
+   "cupom": "BRISA100",
+   "venda": 840136.47,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 326,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Aniversario",
+   "cupom": "VENTO25",
+   "venda": 721136.16,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 277,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": null,
+   "cupom": "BONUS100",
+   "venda": 582225.87,
+   "motivo": "excluído por regra",
+   "vendas": 228,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": false,
+   "tipo_origem": null,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Desconto loja",
+   "cupom": "MARE200",
+   "venda": 530293.73,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 206,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Desconto loja",
+   "cupom": "LAGOA20",
+   "venda": 465749.52,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 182,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Desconto loja",
+   "cupom": "FAROLETE30",
+   "venda": 436553.66,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 170,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Desconto loja",
+   "cupom": "VALE15",
+   "venda": 415199.97,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 160,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Desconto loja",
+   "cupom": "ONDA200",
+   "venda": 381925.11,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 149,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Desconto loja",
+   "cupom": "HORIZONTE30",
+   "venda": 377998.69,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 146,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "App",
+   "cupom": "FAROLETE5",
+   "venda": 362440.83,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 141,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": "Aniversario",
+   "cupom": "ILHA40",
+   "venda": 356350.67,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 138,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": "modelo",
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": null,
+   "cupom": "FAROLETE100",
+   "venda": 356056.72,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 138,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": null,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": null,
+   "cupom": "BONUS10",
+   "venda": 353711.12,
+   "motivo": "excluído por regra",
+   "vendas": 137,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": false,
+   "tipo_origem": null,
+   "primeiro_uso": "2026-07-01"
+  },
+  {
+   "tipo": null,
+   "cupom": "TRILHA25",
+   "venda": 350186.42,
+   "motivo": "automático (novo na campanha)",
+   "vendas": 135,
+   "observacao": null,
+   "ultimo_uso": "2026-09-27",
+   "acao_manual": null,
+   "na_campanha": true,
+   "tipo_origem": null,
+   "primeiro_uso": "2026-07-01"
+  }
+ ],
+ "regras": [
+  {
+   "id": 1,
+   "acao": "excluir",
+   "cupons": 0,
+   "padrao": "TESTE%",
+   "observacao": "cupons de teste da TI"
+  },
+  {
+   "id": 2,
+   "acao": "excluir",
+   "cupons": 2,
+   "padrao": "BNS%",
+   "observacao": "bônus de outro programa"
+  }
+ ],
+ "dados_ate": "2026-09-27",
+ "cargas": [
+  {
+   "id": 12,
+   "inicio": "2026-10-02T18:58:59.882514+00:00",
+   "fim": "2026-10-02T18:59:59.882514+00:00",
+   "origem_carga": "carga-auto",
+   "periodo_de": "2026-10-01",
+   "periodo_ate": "2026-10-02",
+   "linhas": 612,
+   "status": "ok",
+   "mensagem": null,
+   "dataset_atualizado_em": "2026-10-02T18:55:59.882514+00:00"
+  },
+  {
+   "id": 11,
+   "inicio": "2026-10-02T18:28:59.882514+00:00",
+   "fim": "2026-10-02T18:29:59.882514+00:00",
+   "origem_carga": "carga-auto",
+   "periodo_de": "2026-10-01",
+   "periodo_ate": "2026-10-02",
+   "linhas": 598,
+   "status": "ok",
+   "mensagem": null,
+   "dataset_atualizado_em": "2026-10-02T18:25:59.882514+00:00"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "painel-tv-cupons-vitrine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vitrine p\u00fablica do Painel TV de Cupons: front-end com dados fict\u00edcios",
+  "scripts": {
+    "dev": "node tests/servidor-local.mjs 8811"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

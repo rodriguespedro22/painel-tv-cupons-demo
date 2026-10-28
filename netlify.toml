@@ -1,0 +1,57 @@
+# =====================================================================
+#  Netlify · Painel TV de Cupons (vitrine)
+#  Site estático: publica a pasta "site" como está (não há etapa de build).
+#  Deploy contínuo: cada push na branch "main" do GitHub publica em produção;
+#  cada Pull Request gera um "Deploy Preview" com link próprio.
+# =====================================================================
+[build]
+  base    = ""
+  publish = "site"
+  command = ""
+
+# ------------------------------------------------------------------ cabeçalhos de segurança (todas as páginas)
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options           = "DENY"
+    X-Content-Type-Options    = "nosniff"
+    Referrer-Policy           = "no-referrer"
+    Permissions-Policy        = "camera=(), microphone=(), geolocation=(), payment=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    X-Robots-Tag              = "noindex, nofollow"
+    # Scripts só de arquivos do próprio site (sem 'unsafe-inline').
+    # style-src mantém 'unsafe-inline' porque as telas montam estilos dinâmicos (larguras de barras, cores).
+    Content-Security-Policy   = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://*.supabase.co; frame-ancestors 'none'; base-uri 'none'; form-action 'self'; object-src 'none'"
+
+# ------------------------------------------------------------------ cache
+# HTML, configuração e scripts: sempre conferir se há versão nova (as TVs ficam ligadas dias seguidos)
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "no-cache"
+[[headers]]
+  for = "/assets/js/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+[[headers]]
+  for = "/assets/css/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+# Fontes e imagens mudam raramente
+[[headers]]
+  for = "/assets/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+[[headers]]
+  for = "/assets/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+# Administração nunca fica em cache
+[[headers]]
+  for = "/admin.html"
+  [headers.values]
+    Cache-Control = "no-store"
+[[headers]]
+  for = "/admin"
+  [headers.values]
+    Cache-Control = "no-store"

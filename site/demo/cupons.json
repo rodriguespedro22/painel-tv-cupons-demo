@@ -1,0 +1,163 @@
+[
+ {
+  "tipo": "Desconto loja",
+  "cupom": "BRISA100",
+  "venda": 840136.47,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Aniversario",
+  "cupom": "VENTO25",
+  "venda": 721136.16,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Desconto loja",
+  "cupom": "MARE200",
+  "venda": 530293.73,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Desconto loja",
+  "cupom": "LAGOA20",
+  "venda": 465749.52,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Desconto loja",
+  "cupom": "FAROLETE30",
+  "venda": 436553.66,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Desconto loja",
+  "cupom": "VALE15",
+  "venda": 415199.97,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Desconto loja",
+  "cupom": "ONDA200",
+  "venda": 381925.11,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Desconto loja",
+  "cupom": "HORIZONTE30",
+  "venda": 377998.69,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "App",
+  "cupom": "FAROLETE5",
+  "venda": 362440.83,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Aniversario",
+  "cupom": "ILHA40",
+  "venda": 356350.67,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": null,
+  "cupom": "FAROLETE100",
+  "venda": 356056.72,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": null,
+  "cupom": "TRILHA25",
+  "venda": 350186.42,
+  "na_campanha": true,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "CEDRO50",
+  "venda": 102855.86,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-04"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "BRISA200",
+  "venda": 101794.28,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-01"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "ONDA100",
+  "venda": 88047.89,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-07"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "SAFIRA5",
+  "venda": 74597.72,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-10"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "OPALA15",
+  "venda": 58675.18,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-13"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "HORIZONTE50",
+  "venda": 45637.0,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-16"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "TURQUESA5",
+  "venda": 30627.3,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-19"
+ },
+ {
+  "tipo": "Campanha",
+  "cupom": "PRATA5",
+  "venda": 26697.04,
+  "na_campanha": true,
+  "primeiro_uso": "2026-09-22"
+ },
+ {
+  "tipo": null,
+  "cupom": "BONUS100",
+  "venda": 582225.87,
+  "na_campanha": false,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": null,
+  "cupom": "BONUS10",
+  "venda": 353711.12,
+  "na_campanha": false,
+  "primeiro_uso": "2026-07-01"
+ },
+ {
+  "tipo": "App",
+  "cupom": "OPALA40",
+  "venda": 10230.8,
+  "na_campanha": false,
+  "primeiro_uso": "2026-09-25"
+ }
+]

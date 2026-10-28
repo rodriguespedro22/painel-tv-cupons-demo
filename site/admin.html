@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>Administração · Painel de cupons · Rede Aurora</title>
+<link rel="preload" href="assets/fonts/gantari-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/fontes.css">
+<link rel="stylesheet" href="assets/css/auth.css">
+<link rel="stylesheet" href="assets/css/admin.css">
+<script src="assets/js/config.js"></script>
+<script src="assets/vendor/supabase.js"></script>
+<script src="assets/js/auth.js"></script>
+</head>
+<body>
+<header>
+  <div class="cab">
+    <img src="assets/img/campanha.svg" alt="">
+    <h1>Administração<small id="subtitulo">Painel de cupons</small></h1>
+    <div class="dir"><span id="dadosAte"></span><span id="modoDemo"></span><a href="./?modo=analise">Abrir o painel</a><span id="usuario"></span></div>
+  </div>
+  <nav class="abas" id="abas" aria-label="Seções"></nav>
+</header>
+
+<main id="app"></main>
+<div class="toast" id="toast" role="status"></div>
+
+<script src="assets/js/admin.js"></script>
+</body>
+</html>
