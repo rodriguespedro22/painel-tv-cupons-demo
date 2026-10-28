@@ -2,6 +2,8 @@
 
 Painel web que mostra, em uma única tela, como está uma grande campanha de cupons de varejo. Roda na TV da diretoria e no celular e no notebook dos gestores, com dados que se atualizam a cada 30 minutos.
 
+**[Ver a demonstração ao vivo](https://rodriguespedro22.github.io/painel-tv-cupons-demo/?demo=1)**
+
 ![Tela de resultado do painel, com dados fictícios](docs/img/tela-resultado.jpg)
 
 > **Versão de demonstração.** O sistema completo é de uso interno de uma empresa e fica em um repositório privado. Este repositório traz o front-end com **dados 100% fictícios** (marca "Rede Aurora", cupons, filiais e valores inventados), a arquitetura e as decisões técnicas.
